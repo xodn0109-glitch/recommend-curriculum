@@ -54,7 +54,7 @@ function renderHome() {
   app.innerHTML = `
     <section class="hero">
       <h1>2028 대입 권장과목 안내</h1>
-      <p>두루고등학교 학생을 위한 모집단위·대학별 권장과목 가이드입니다.<br>
+      <p>2028학년도 대입 모집단위·대학별 권장과목 가이드입니다.<br>
          원하는 진학 정보를 빠르게 찾아보세요.</p>
     </section>
 
