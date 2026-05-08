@@ -2,9 +2,10 @@
 const state = { part01: null, part02: null };
 
 async function loadData() {
+  const v = Date.now();
   const [p1, p2] = await Promise.all([
-    fetch('data/part01.json').then(r => r.json()),
-    fetch('data/part02.json').then(r => r.json()),
+    fetch(`data/part01.json?v=${v}`).then(r => r.json()),
+    fetch(`data/part02.json?v=${v}`).then(r => r.json()),
   ]);
   state.part01 = p1;
   state.part02 = p2;
