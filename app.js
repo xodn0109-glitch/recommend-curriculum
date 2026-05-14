@@ -270,13 +270,21 @@ function renderPart02Univ(univName) {
     const collegeRow = g.college
       ? `<tr class="college-row"><td colspan="4">${escapeHtml(g.college)}</td></tr>`
       : '';
+    const majorSpans = calcSpans(g.rows, 'major');
     const coreSpans = calcSpans(g.rows, 'core_subjects');
     const recSpans = calcSpans(g.rows, 'recommended_subjects');
     const noteSpans = calcSpans(g.rows, 'note');
 
     const rows = g.rows.map((r, idx) => {
-      let html = `<tr><td><strong>${escapeHtml(r.major)}</strong></td>`;
+      let html = '<tr>';
       const mergedStyle = ' style="vertical-align:top"';
+      if (majorSpans[idx]) {
+        const s = majorSpans[idx];
+        const isM = s.rowspan > 1;
+        const rowAttr = isM ? ` rowspan="${s.rowspan}"` : '';
+        const style = isM ? mergedStyle : '';
+        html += `<td${rowAttr}${style}><strong>${escapeHtml(s.value)}</strong></td>`;
+      }
       const cs = coreSpans[idx];
       const rs = recSpans[idx];
       // 핵심과 권장이 동일한 값·동일한 행 범위면 colspan으로 한 셀처럼 표시
