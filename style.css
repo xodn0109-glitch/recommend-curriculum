@@ -388,7 +388,6 @@ table thead th {
   box-shadow: 0 1px 0 var(--border);
 }
 table thead tr:nth-child(2) th { top: 41px; }
-table tbody tr:hover { background: rgba(124, 92, 255, 0.03); }
 table .empty-cell { color: rgba(0,0,0,0.2); text-align: center; }
 table .mark { color: var(--primary); font-weight: 600; }
 table .subj-section {
