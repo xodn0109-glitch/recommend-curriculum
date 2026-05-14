@@ -2415,7 +2415,7 @@
     "university": "서울시립대",
     "college": "",
     "major": "도시사회학과",
-    "core_subjects": "",
+    "core_subjects": "국어, 영어, 수학, 사회",
     "recommended_subjects": "-",
     "note": "-"
   },
@@ -2448,9 +2448,9 @@
     "university": "서울시립대",
     "college": "",
     "major": "신소재공학과",
-    "core_subjects": "",
-    "recommended_subjects": "",
-    "note": ""
+    "core_subjects": "수학(특히 미적분), 물리, 화학",
+    "recommended_subjects": "-",
+    "note": "-"
   },
   {
     "page": 53,
@@ -2492,7 +2492,7 @@
     "university": "서울시립대",
     "college": "",
     "major": "인공지능학과",
-    "core_subjects": "",
+    "core_subjects": "수학(특히 미적분)",
     "recommended_subjects": "물리",
     "note": "-"
   },
@@ -2656,7 +2656,7 @@
     "city": "서울",
     "university": "서울시립대",
     "college": "",
-    "major": "첨단융합학부 (융합바이오헬스전공)",
+    "major": "첨단융합학부(융합바이오헬스전공)",
     "core_subjects": "수학(특히 미적분), 화학, 생명과학",
     "recommended_subjects": "-",
     "note": "-"
