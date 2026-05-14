@@ -7,7 +7,7 @@
     "college": "",
     "major": "자유전공학부",
     "core_subjects": "계열 구분 없이 자신의 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "계열 구분 없이 자신의 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "-"
   },
   {
@@ -18,7 +18,7 @@
     "college": "",
     "major": "인문사회계열",
     "core_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "-"
   },
   {
@@ -29,7 +29,7 @@
     "college": "",
     "major": "국어국문학과, 철학과, 국사학과, 영어영문학부, 중국언어문화학과, 일어일본문화학과, 프랑스어문화학과, 국제학부, 법학과, 아동학과, 신학과",
     "core_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "-"
   },
   {
@@ -40,7 +40,7 @@
     "college": "",
     "major": "사회복지학과, 심리학과, 사회학과, 경영학과, 회계학과, 경제학과, 행정학과",
     "core_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수 [수학(확률과 통계) 포함]",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수 [수학(확률과 통계) 포함]",
     "note": "-"
   },
   {
@@ -51,7 +51,7 @@
     "college": "",
     "major": "물리학과, 컴퓨터정보공학부, 인공지능학과",
     "core_subjects": "물리학, 수학(과목 위계를 고려하여 3과목 이상)",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학, 수학(과목 위계를 고려하여 3과목 이상)",
     "note": "물리학 과목 1과목 이상"
   },
   {
@@ -62,7 +62,7 @@
     "college": "",
     "major": "화학과",
     "core_subjects": "화학, 수학(과목 위계를 고려하여 3과목 이상)",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학, 수학(과목 위계를 고려하여 3과목 이상)",
     "note": "화학 과목 1과목 이상"
   },
   {
@@ -73,7 +73,7 @@
     "college": "",
     "major": "정보통신전자공학부, 에너지환경공학과",
     "core_subjects": "물리학, 생명과학, 수학(과목 위계를 고려하여 3과목 이상)",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학, 생명과학, 수학(과목 위계를 고려하여 3과목 이상)",
     "note": "물리학 및 화학 과목 2과목 이상"
   },
   {
@@ -84,7 +84,7 @@
     "college": "",
     "major": "식품영양학과, 생명공학과, 바이오메디컬화학공학과, 의생명과학과, 바이오로직스공학부, AI의공학과, 약학과, 간호학과",
     "core_subjects": "화학, 생명과학, 수학(과목 위계를 고려하여 3과목 이상)",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학, 생명과학, 수학(과목 위계를 고려하여 3과목 이상)",
     "note": "물리학 및 생명과학 2과목 이상"
   },
   {
@@ -95,7 +95,7 @@
     "college": "",
     "major": "수학과, 의류학과, 공간디자인·소비자학과, 미디어기술콘텐츠학과, 데이터사이언스학과",
     "core_subjects": "수학(과목 위계를 고려하여 3과목 이상)",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학(과목 위계를 고려하여 3과목 이상)",
     "note": "-"
   },
   {
@@ -106,7 +106,7 @@
     "college": "",
     "major": "의예과",
     "core_subjects": "화학, 생명과학, 수학(과목 위계를 고려하여 3과목 이상)",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학, 생명과학, 수학(과목 위계를 고려하여 3과목 이상)",
     "note": "‘세포와 물질대사', '생물과 유전' 포함 3과목 이상"
   },
   {
@@ -117,7 +117,7 @@
     "college": "인문",
     "major": "문과대학",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": "일반 선택 과목을 먼저 이수하고, 진로 적성에 맞게 진로 선택 과목 및 융합 선택 과목 이수를 추천"
   },
   {
@@ -128,7 +128,7 @@
     "college": "인문",
     "major": "사범대학",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": "일반 선택 과목을 먼저 이수하고, 진로 적성에 맞게 진로 선택 과목 및 융합 선택 과목 이수를 추천"
   },
   {
@@ -139,7 +139,7 @@
     "college": "사회과학",
     "major": "사회과학대학, 경영대학, 부동산대학",
     "core_subjects": "국어, 사회, 수학(대수, 미적분Ⅰ, 확률과 통계)",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회, 수학(대수, 미적분Ⅰ, 확률과 통계)",
     "note": ""
   },
   {
@@ -150,7 +150,7 @@
     "college": "이학, 공학, 건축, 생명",
     "major": "이과대학, 건축대학, 융합과학기술원, 생명과학대학, 수의과대학",
     "core_subjects": "수학(대수, 미적분ⅠⅡ, 확률과 통계), 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학(대수, 미적분ⅠⅡ, 확률과 통계), 과학",
     "note": "과학은 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수 추천"
   },
   {
@@ -161,7 +161,7 @@
     "college": "이학, 공학, 건축, 생명",
     "major": "공과대학",
     "core_subjects": "수학(대수, 미적분Ⅰ, 미적분Ⅱ, 기하), 과학(물리학)",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학(대수, 미적분Ⅰ, 미적분Ⅱ, 기하), 과학(물리학)",
     "note": "과학은 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수 추천"
   },
   {
@@ -172,7 +172,7 @@
     "college": "자유전공",
     "major": "KU자유전공학부",
     "core_subjects": "계열 상관없이 자신의 진로와 적성에 따라 과목 선택하여 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "계열 상관없이 자신의 진로와 적성에 따라 과목 선택하여 이수",
     "note": "-"
   },
   {
