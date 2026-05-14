@@ -356,7 +356,7 @@ table th:last-child, table td:last-child {
 table td.merged {
   vertical-align: top;
   background: rgba(124, 92, 255, 0.06);
-  box-shadow: inset 1px 0 0 rgba(124, 92, 255, 0.4);
+  box-shadow: inset 1px 0 0 var(--border);
 }
 .merged-label {
   display: block;
