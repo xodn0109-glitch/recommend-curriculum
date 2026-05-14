@@ -352,9 +352,9 @@ table th, table td {
 table th:last-child, table td:last-child {
   border-right: none;
 }
-/* rowspan으로 묶인 셀: 세로 가운데 정렬 + 약한 강조 */
+/* rowspan으로 묶인 셀: 텍스트가 첫 행에 보이도록 위쪽 정렬 + 약한 강조 */
 table td.merged {
-  vertical-align: middle;
+  vertical-align: top;
   background: rgba(124, 92, 255, 0.025);
 }
 /* 비고 셀 공통 */
