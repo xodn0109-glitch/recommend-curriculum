@@ -276,23 +276,25 @@ function renderPart02Univ(univName) {
 
     const rows = g.rows.map((r, idx) => {
       let html = `<tr><td><strong>${escapeHtml(r.major)}</strong></td>`;
+      const mergedStyle = ' style="vertical-align:top"';
       if (coreSpans[idx]) {
         const s = coreSpans[idx];
-        const cls = s.rowspan > 1 ? ' class="merged"' : '';
-        const rs = s.rowspan > 1 ? ` rowspan="${s.rowspan}"` : '';
-        html += `<td${rs}${cls}>${formatSubjects(s.value, 'core')}</td>`;
+        const isM = s.rowspan > 1;
+        const attr = isM ? ` rowspan="${s.rowspan}" class="merged"${mergedStyle}` : '';
+        html += `<td${attr}>${formatSubjects(s.value, 'core')}</td>`;
       }
       if (recSpans[idx]) {
         const s = recSpans[idx];
-        const cls = s.rowspan > 1 ? ' class="merged"' : '';
-        const rs = s.rowspan > 1 ? ` rowspan="${s.rowspan}"` : '';
-        html += `<td${rs}${cls}>${formatSubjects(s.value, 'rec')}</td>`;
+        const isM = s.rowspan > 1;
+        const attr = isM ? ` rowspan="${s.rowspan}" class="merged"${mergedStyle}` : '';
+        html += `<td${attr}>${formatSubjects(s.value, 'rec')}</td>`;
       }
       if (noteSpans[idx]) {
         const s = noteSpans[idx];
-        const cls = s.rowspan > 1 ? 'merged note-cell' : 'note-cell';
-        const rs = s.rowspan > 1 ? ` rowspan="${s.rowspan}"` : '';
-        html += `<td${rs} class="${cls}">${escapeHtml(s.value || '-')}</td>`;
+        const isM = s.rowspan > 1;
+        const cls = isM ? 'merged note-cell' : 'note-cell';
+        const attr = isM ? ` rowspan="${s.rowspan}" class="${cls}"${mergedStyle}` : ` class="${cls}"`;
+        html += `<td${attr}>${escapeHtml(s.value || '-')}</td>`;
       }
       html += `</tr>`;
       return html;
