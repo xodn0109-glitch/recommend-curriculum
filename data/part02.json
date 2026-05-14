@@ -9456,7 +9456,7 @@
     "college": "인문콘텐츠대학",
     "major": "인문콘텐츠대학",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": "일반 선택 과목 2과목 이상"
   },
   {
@@ -9467,7 +9467,7 @@
     "college": "인문콘텐츠대학",
     "major": "",
     "core_subjects": "예술, 제2외국어, 교양",
-    "recommended_subjects": "",
+    "recommended_subjects": "예술, 제2외국어, 교양",
     "note": "일반 선택 과목 2과목 이상"
   },
   {
@@ -9478,7 +9478,7 @@
     "college": "사회과학대학",
     "major": "경찰학과",
     "core_subjects": "사회와 문화, 현대사회와 윤리, 도시와 미래탐구, 법과 사회, 윤리와 사상",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회와 문화, 현대사회와 윤리, 도시와 미래탐구, 법과 사회, 윤리와 사상",
     "note": "-"
   },
   {
@@ -9489,7 +9489,7 @@
     "college": "사회과학대학",
     "major": "문헌정보학과",
     "core_subjects": "사회 일반 선택 과목: 사회와 문화, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 경제, 윤리와 사상, 인문학과 윤리",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회 일반 선택 과목: 사회와 문화, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 경제, 윤리와 사상, 인문학과 윤리",
     "note": "-"
   },
   {
@@ -9498,9 +9498,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "사회과학대학",
-    "major": "",
+    "major": "문헌정보학과",
     "core_subjects": "국어 일반 선택 과목: 화법과 언어, 독서와 작문, 문학 진로 선택 과목: 주제 탐구 독서, 문학과 영상, 직무 의사소통",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어 일반 선택 과목: 화법과 언어, 독서와 작문, 문학 진로 선택 과목: 주제 탐구 독서, 문학과 영상, 직무 의사소통",
     "note": "융합 선택 과목: 독서 토론과 글쓰기, 매체 의사소통, 언어생활 탐구"
   },
   {
@@ -9509,9 +9509,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "사회과학대학",
-    "major": "",
+    "major": "문헌정보학과",
     "core_subjects": "영어 일반 선택 과목: 영어Ⅰ 진로 선택 과목: 영미 문학 읽기, 독해와 작문",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어 일반 선택 과목: 영어Ⅰ 진로 선택 과목: 영미 문학 읽기, 독해와 작문",
     "note": "융합 선택 과목: 실생활 영어 회화, 세계 문화와 영어"
   },
   {
@@ -9522,7 +9522,7 @@
     "college": "사회과학대학",
     "major": "법학과",
     "core_subjects": "일반 선택 과목: 사회와 문화, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 경제, 윤리와 사상, 국제관계의 이해",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 사회와 문화, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 경제, 윤리와 사상, 국제관계의 이해",
     "note": "-"
   },
   {
@@ -9533,7 +9533,7 @@
     "college": "사회과학대학",
     "major": "사회복지학과",
     "core_subjects": "사회 일반 선택 과목: 사회와 문화, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 경제, 윤리와 사상, 인문학과 윤리",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회 일반 선택 과목: 사회와 문화, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 경제, 윤리와 사상, 인문학과 윤리",
     "note": "-"
   },
   {
@@ -9542,9 +9542,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "사회과학대학",
-    "major": "",
+    "major": "사회복지학과",
     "core_subjects": "국어 일반 선택 과목: 화법과 언어 진로 선택 과목: 직무 의사소통",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어 일반 선택 과목: 화법과 언어 진로 선택 과목: 직무 의사소통",
     "note": "융합 선택 과목: 언어생활 탐구"
   },
   {
@@ -9553,9 +9553,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "사회과학대학",
-    "major": "",
+    "major": "사회복지학과",
     "core_subjects": "교양 일반 선택 과목: 생태와 환경 진로 선택 과목: 인간과 심리",
-    "recommended_subjects": "",
+    "recommended_subjects": "교양 일반 선택 과목: 생태와 환경 진로 선택 과목: 인간과 심리",
     "note": "융합 선택 과목: 인간과 경제활동"
   },
   {
@@ -9566,7 +9566,7 @@
     "college": "사회과학대학",
     "major": "상담심리학과",
     "core_subjects": "일반 선택 과목: 화법과 언어, 독서와 작문 진로 선택 과목: 주제 탐구 독서, 직무 의사소통",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 화법과 언어, 독서와 작문 진로 선택 과목: 주제 탐구 독서, 직무 의사소통",
     "note": "-"
   },
   {
@@ -9576,8 +9576,8 @@
     "university": "전주대",
     "college": "사회과학대학",
     "major": "행정학과",
-    "core_subjects": "사회 일반 선택 과목: 사회와 문학, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 윤리와 사상, 국제관계의 이해",
-    "recommended_subjects": "",
+    "core_subjects": "사회 일반 선택 과목: 사회와 문화, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 윤리와 사상, 국제관계의 이해",
+    "recommended_subjects": "사회 일반 선택 과목: 사회와 문화, 현대사회와 윤리 진로 선택 과목: 정치, 법과 사회, 윤리와 사상, 국제관계의 이해",
     "note": "-"
   },
   {
@@ -9586,9 +9586,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "사회과학대학",
-    "major": "",
+    "major": "행정학과",
     "core_subjects": "수학 일반 선택 과목: 확률과 통계 진로 선택 과목: 직무 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학 일반 선택 과목: 확률과 통계 진로 선택 과목: 직무 수학",
     "note": "융합 선택 과목: 실용 통계"
   },
   {
@@ -9597,9 +9597,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "사회과학대학",
-    "major": "",
+    "major": "행정학과",
     "core_subjects": "영어 일반 선택 과목: 영어Ⅰ 진로 선택 과목: 직무 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어 일반 선택 과목: 영어Ⅰ 진로 선택 과목: 직무 영어",
     "note": "융합 선택 과목: 실생활 영어 회화"
   },
   {
@@ -9608,9 +9608,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "사회과학대학",
-    "major": "",
+    "major": "행정학과",
     "core_subjects": "교양 일반 선택 과목: 진로와 직업 진로 선택 과목: 인간과 철학, 인간과 심리",
-    "recommended_subjects": "",
+    "recommended_subjects": "교양 일반 선택 과목: 진로와 직업 진로 선택 과목: 인간과 철학, 인간과 심리",
     "note": "융합 선택 과목: 논술"
   },
   {
@@ -9621,7 +9621,7 @@
     "college": "경영대학",
     "major": "경영대학",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "2과목 이상"
   },
   {
@@ -9632,7 +9632,7 @@
     "college": "의과학대학",
     "major": "간호학과",
     "core_subjects": "국어, 수학, 영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 과학",
     "note": "2과목 이상"
   },
   {
@@ -9643,7 +9643,7 @@
     "college": "의과학대학",
     "major": "물리치료학과",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "일반 선택 과목 2과목 이상"
   },
   {
@@ -9654,7 +9654,7 @@
     "college": "의과학대학",
     "major": "방사선학과",
     "core_subjects": "수학 일반 선택 과목: 대수, 미적분.Ⅰ, 확률과 통계 진로 선택 과목: 기하, 미적분Ⅱ, 인공지능 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학 일반 선택 과목: 대수, 미적분.Ⅰ, 확률과 통계 진로 선택 과목: 기하, 미적분Ⅱ, 인공지능 수학",
     "note": "융합 선택 과목: 수학과제 탐구"
   },
   {
@@ -9663,9 +9663,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "의과학대학",
-    "major": "",
+    "major": "방사선학과",
     "core_subjects": "과학 일반 선택 과목: 물리학, 화학, 생명과학 진로 선택 과목: 역학과 에너지, 전자기와 양자, 화학 반응의 세계, 세포와 물질대사, 과학과제 탐구",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학 일반 선택 과목: 물리학, 화학, 생명과학 진로 선택 과목: 역학과 에너지, 전자기와 양자, 화학 반응의 세계, 세포와 물질대사, 과학과제 탐구",
     "note": "융합 선택 과목: 과학의 역사와 문화, 융합과학 탐구"
   },
   {
@@ -9676,7 +9676,7 @@
     "college": "의과학대학",
     "major": "보건관리학과",
     "core_subjects": "과학, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학, 영어",
     "note": "2과목 이상"
   },
   {
@@ -9687,7 +9687,7 @@
     "college": "의과학대학",
     "major": "작업치료학과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "2과목 이상"
   },
   {
@@ -9696,9 +9696,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "의과학대학",
-    "major": "",
+    "major": "작업치료학과",
     "core_subjects": "사회, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회, 과학",
     "note": "2과목 이상"
   },
   {
@@ -9709,7 +9709,7 @@
     "college": "의과학대학",
     "major": "식품영양학과",
     "core_subjects": "과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학",
     "note": "일반 선택 과목, 진로 선택 과목 1과목 이상"
   },
   {
@@ -9720,7 +9720,7 @@
     "college": "의과학대학",
     "major": "재활학과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "1과목 이상"
   },
   {
@@ -9729,9 +9729,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "의과학대학",
-    "major": "",
+    "major": "재활학과",
     "core_subjects": "사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회",
     "note": "2과목 이상"
   },
   {
@@ -9740,9 +9740,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "의과학대학",
-    "major": "",
+    "major": "재활학과",
     "core_subjects": "교양",
-    "recommended_subjects": "",
+    "recommended_subjects": "교양",
     "note": "2과목 이상"
   },
   {
@@ -9753,7 +9753,7 @@
     "college": "의과학대학",
     "major": "운동처방학과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "2과목 이상"
   },
   {
@@ -9762,9 +9762,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "의과학대학",
-    "major": "",
+    "major": "운동처방학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "2과목 이상"
   },
   {
@@ -9773,9 +9773,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "의과학대학",
-    "major": "",
+    "major": "운동처방학과",
     "core_subjects": "과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학",
     "note": "2과목 이상"
   },
   {
@@ -9784,9 +9784,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "의과학대학",
-    "major": "",
+    "major": "운동처방학과",
     "core_subjects": "체육",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육",
     "note": "2과목 이상"
   },
   {
@@ -9797,7 +9797,7 @@
     "college": "공과대학",
     "major": "건축공학과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "1과목 이상"
   },
   {
@@ -9806,9 +9806,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "건축공학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "1과목 이상"
   },
   {
@@ -9817,9 +9817,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "건축공학과",
     "core_subjects": "수학 일반 선택 과목: 대수, 미적분Ⅰ 진로 선택 과목: 기하, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학 일반 선택 과목: 대수, 미적분Ⅰ 진로 선택 과목: 기하, 미적분Ⅱ",
     "note": "-"
   },
   {
@@ -9828,9 +9828,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "건축공학과",
     "core_subjects": "사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회",
     "note": "일반 선택 과목, 진로 선택 과목 1과목 이상"
   },
   {
@@ -9839,9 +9839,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "건축공학과",
     "core_subjects": "과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학",
     "note": "일반 선택 과목, 진로 선택 과목 2과목 이상"
   },
   {
@@ -9852,7 +9852,7 @@
     "college": "공과대학",
     "major": "건축학과",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": "-"
   },
   {
@@ -9863,7 +9863,7 @@
     "college": "공과대학",
     "major": "토목환경공학과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "일반 선택 과목 1과목 이상"
   },
   {
@@ -9872,9 +9872,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "토목환경공학과",
     "core_subjects": "수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학",
     "note": "일반 선택 과목 1과목 이상"
   },
   {
@@ -9885,7 +9885,7 @@
     "college": "공과대학",
     "major": "기계공학과",
     "core_subjects": "수학 일반 선택 과목: 대수, 미적분Ⅰ 진로 선택 과목: 기하, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학 일반 선택 과목: 대수, 미적분Ⅰ 진로 선택 과목: 기하, 미적분Ⅱ",
     "note": "융합 선택 과목: 수학과제 탐구"
   },
   {
@@ -9896,7 +9896,7 @@
     "college": "공과대학",
     "major": "기계자동차공학과",
     "core_subjects": "수학 일반 선택 과목: 미적분Ⅰ 진로 선택 과목: 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학 일반 선택 과목: 미적분Ⅰ 진로 선택 과목: 미적분Ⅱ",
     "note": "-"
   },
   {
@@ -9905,9 +9905,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "기계자동차공학과",
     "core_subjects": "물리학",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학",
     "note": "-"
   },
   {
@@ -9918,7 +9918,7 @@
     "college": "공과대학",
     "major": "소방안전공학과",
     "core_subjects": "미적분Ⅰ",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅰ",
     "note": "-"
   },
   {
@@ -9927,9 +9927,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "소방안전공학과",
     "core_subjects": "물리학, 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학, 화학",
     "note": "-"
   },
   {
@@ -9940,7 +9940,7 @@
     "college": "공과대학",
     "major": "신소재화학공학과",
     "core_subjects": "과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학",
     "note": "일반 선택 과목, 진로 선택 과목 1과목 이상"
   },
   {
@@ -9951,7 +9951,7 @@
     "college": "공과대학",
     "major": "전기전자공학과",
     "core_subjects": "미적분Ⅰ",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅰ",
     "note": "-"
   },
   {
@@ -9962,7 +9962,7 @@
     "college": "공과대학",
     "major": "정보통신공학과",
     "core_subjects": "일반 선택 과목: 기술·가정, 정보 진로 선택 과목: 로봇과 공학세계, 인공지능 기초, 데이터과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 기술·가정, 정보 진로 선택 과목: 로봇과 공학세계, 인공지능 기초, 데이터과학",
     "note": "융합 선택 과목: 창의 공학 설계, 소프트웨어와 생활"
   },
   {
@@ -9971,9 +9971,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "정보통신공학과",
     "core_subjects": "물리학, 과학(진로, 융합)",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학, 과학(진로, 융합)",
     "note": "물리학 외 과학교과 진로 선택 과목, 융합 선택 과목 1과목 이상"
   },
   {
@@ -9982,9 +9982,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "공과대학",
-    "major": "",
+    "major": "정보통신공학과",
     "core_subjects": "수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학",
     "note": "1과목 이상"
   },
   {
@@ -9992,10 +9992,10 @@
     "region": "호남",
     "city": "전북",
     "university": "전주대",
-    "college": "소프트웨어 융합대학",
-    "major": "데이터사이언스 학과",
+    "college": "소프트웨어융합대학",
+    "major": "데이터사이언스학과",
     "core_subjects": "일반 선택 과목: 대수, 미적분Ⅰ, 확률과 통계 진로 선택 과목: 인공지능 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 대수, 미적분Ⅰ, 확률과 통계 진로 선택 과목: 인공지능 수학",
     "note": "-"
   },
   {
@@ -10003,10 +10003,10 @@
     "region": "호남",
     "city": "전북",
     "university": "전주대",
-    "college": "소프트웨어 융합대학",
+    "college": "소프트웨어융합대학",
     "major": "스마트미디어학과",
     "core_subjects": "일반 선택 과목: 정보 진로 선택 과목: 인공지능기초, 데이터과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 정보 진로 선택 과목: 인공지능기초, 데이터과학",
     "note": "소프트웨어와 생활"
   },
   {
@@ -10014,10 +10014,10 @@
     "region": "호남",
     "city": "전북",
     "university": "전주대",
-    "college": "소프트웨어 융합대학",
+    "college": "소프트웨어융합대학",
     "major": "인공지능학과",
     "core_subjects": "일반 선택 과목: 대수, 미적분Ⅰ, 확률과 통계 진로 선택 과목: 인공지능 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 대수, 미적분Ⅰ, 확률과 통계 진로 선택 과목: 인공지능 수학",
     "note": "-"
   },
   {
@@ -10025,10 +10025,10 @@
     "region": "호남",
     "city": "전북",
     "university": "전주대",
-    "college": "소프트웨어 융합대학",
+    "college": "소프트웨어융합대학",
     "major": "컴퓨터공학과",
     "core_subjects": "일반 선택 과목: 대수, 미적분Ⅰ, 확률과 통계 진로 선택 과목: 미적분Ⅱ, 인공지능 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 대수, 미적분Ⅰ, 확률과 통계 진로 선택 과목: 미적분Ⅱ, 인공지능 수학",
     "note": "-"
   },
   {
@@ -10036,10 +10036,10 @@
     "region": "호남",
     "city": "전북",
     "university": "전주대",
-    "college": "소프트웨어 융합대학",
-    "major": "",
+    "college": "소프트웨어융합대학",
+    "major": "컴퓨터공학과",
     "core_subjects": "일반 선택 과목: 기술·가정, 정보 진로 선택 과목: 인공지능 기초, 데이터 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 기술·가정, 정보 진로 선택 과목: 인공지능 기초, 데이터 과학",
     "note": "융합 선택 과목: 창의 공학 설계, 소프트웨어 생활"
   },
   {
@@ -10050,7 +10050,7 @@
     "college": "문화융합대학",
     "major": "게임콘텐츠학과",
     "core_subjects": "국어, 수학, 예술",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 예술",
     "note": "6과목 이상"
   },
   {
@@ -10059,9 +10059,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "문화융합대학",
-    "major": "산업디자인학과",
+    "major": "",
     "core_subjects": "미술",
-    "recommended_subjects": "",
+    "recommended_subjects": "미술",
     "note": "-"
   },
   {
@@ -10070,9 +10070,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "문화융합대학",
-    "major": "",
+    "major": "산업디자인학과",
     "core_subjects": "일반 선택 과목: 기술·가정 진로 선택 과목: 로봇과 공학세계, 생활과학 탐구",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 기술·가정 진로 선택 과목: 로봇과 공학세계, 생활과학 탐구",
     "note": "융합 선택 과목: 창의 공학 설계"
   },
   {
@@ -10081,9 +10081,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "문화융합대학",
-    "major": "",
+    "major": "산업디자인학과",
     "core_subjects": "일반 선택 과목: 진로와 직업, 생태와 환경 진로 선택 과목: 인간과 철학, 인간과 심리, 논리와 사고",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 진로와 직업, 생태와 환경 진로 선택 과목: 인간과 철학, 인간과 심리, 논리와 사고",
     "note": "-"
   },
   {
@@ -10094,7 +10094,7 @@
     "college": "문화융합대학",
     "major": "공연예술학과",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": "-"
   },
   {
@@ -10105,7 +10105,7 @@
     "college": "문화융합대학",
     "major": "영화방송학과",
     "core_subjects": "국어, 사회, 예술",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회, 예술",
     "note": "2과목 이상"
   },
   {
@@ -10116,7 +10116,7 @@
     "college": "문화융합대학",
     "major": "예술심리치료학과",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": "-"
   },
   {
@@ -10127,7 +10127,7 @@
     "college": "문화융합대학",
     "major": "시각디자인학과",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": "-"
   },
   {
@@ -10138,7 +10138,7 @@
     "college": "문화융합대학",
     "major": "생활체육학과",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": "-"
   },
   {
@@ -10149,7 +10149,7 @@
     "college": "문화융합대학",
     "major": "축구학과",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": "-"
   },
   {
@@ -10160,7 +10160,7 @@
     "college": "문화융합대학",
     "major": "태권도학과",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": "융합 선택 과목: 윤리문제 탐구"
   },
   {
@@ -10169,9 +10169,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "문화융합대학",
-    "major": "",
+    "major": "태권도학과",
     "core_subjects": "일반 선택 과목: 체육1, 체육2 진로 선택 과목: 운동과 건강, 스포츠 문화, 스포츠 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 체육1, 체육2 진로 선택 과목: 운동과 건강, 스포츠 문화, 스포츠 과학",
     "note": "융합 선택 과목: 스포츠 생활1, 스포츠 생활2"
   },
   {
@@ -10182,7 +10182,7 @@
     "college": "문화관광대학",
     "major": "관광경영학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "2과목 이상"
   },
   {
@@ -10193,7 +10193,7 @@
     "college": "문화관광대학",
     "major": "외식산업조리학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "1과목 이상"
   },
   {
@@ -10204,7 +10204,7 @@
     "college": "문화관광대학",
     "major": "",
     "core_subjects": "사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회",
     "note": "1과목 이상"
   },
   {
@@ -10215,7 +10215,7 @@
     "college": "문화관광대학",
     "major": "호텔경영학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "2과목 이상"
   },
   {
@@ -10226,7 +10226,7 @@
     "college": "문화관광대학",
     "major": "패션산업학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "1과목 이상"
   },
   {
@@ -10237,7 +10237,7 @@
     "college": "문화관광대학",
     "major": "",
     "core_subjects": "진로 선택 과목: 생활과학 탐구",
-    "recommended_subjects": "",
+    "recommended_subjects": "진로 선택 과목: 생활과학 탐구",
     "note": "-"
   },
   {
@@ -10248,7 +10248,7 @@
     "college": "문화관광대학",
     "major": "한식조리학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "2과목 이상"
   },
   {
@@ -10259,7 +10259,7 @@
     "college": "사범대학",
     "major": "국어교육과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "1과목 이상"
   },
   {
@@ -10270,7 +10270,7 @@
     "college": "사범대학",
     "major": "영어교육과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "2과목 이상"
   },
   {
@@ -10281,7 +10281,7 @@
     "college": "사범대학",
     "major": "중등특수교육과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "2과목 이상"
   },
   {
@@ -10292,7 +10292,7 @@
     "college": "사범대학",
     "major": "한문교육과",
     "core_subjects": "일반 선택 과목: 문학 진로 선택 과목: 주제 탐구 독서",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 문학 진로 선택 과목: 주제 탐구 독서",
     "note": "융합 선택 과목: 독서 토론과 글쓰기"
   },
   {
@@ -10301,9 +10301,9 @@
     "city": "전북",
     "university": "전주대",
     "college": "사범대학",
-    "major": "",
+    "major": "한문교육과",
     "core_subjects": "일반 선택 과목: 한문 진로 선택 과목: 한문 고전 읽기",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 한문 진로 선택 과목: 한문 고전 읽기",
     "note": "융합 선택 과목: 언어생활과 한자"
   },
   {
@@ -10314,7 +10314,7 @@
     "college": "사범대학",
     "major": "가정교육과",
     "core_subjects": "일반 선택 과목: 기술·가정 진로 선택 과목: 생활과학 탐구",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 기술·가정 진로 선택 과목: 생활과학 탐구",
     "note": "융합 선택 과목: 활설계와 자립, 아동발달과 부모"
   },
   {
@@ -10325,7 +10325,7 @@
     "college": "사범대학",
     "major": "과학교육과",
     "core_subjects": "일반 선택 과목: 물리학, 화학, 생명과학, 지구과학 진로 선택 과목: 역학과 에너지, 전자기와 양자, 물리과 에너지, 화학 반응의 세계, 행성우주과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "일반 선택 과목: 물리학, 화학, 생명과학, 지구과학 진로 선택 과목: 역학과 에너지, 전자기와 양자, 물리과 에너지, 화학 반응의 세계, 행성우주과학",
     "note": "융합 선택 과목: 과학의 역사와 문화, 융합과학 탐구"
   },
   {
@@ -10336,7 +10336,7 @@
     "college": "사범대학",
     "major": "수학교육과",
     "core_subjects": "수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학",
     "note": "일반 선택 과목 3과목 이상, 진로 선택 과목 2과목 이상"
   },
   {
@@ -10347,7 +10347,7 @@
     "college": "사범대학",
     "major": "사범대자율전공 학부",
     "core_subjects": "인간과 철학, 인간과 심리, 교육의 이해 중 1과목 이상",
-    "recommended_subjects": "",
+    "recommended_subjects": "인간과 철학, 인간과 심리, 교육의 이해 중 1과목 이상",
     "note": "-"
   },
   {
@@ -10358,7 +10358,7 @@
     "college": "수퍼스타칼리지",
     "major": "자유전공학부",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": "-"
   },
   {
@@ -10369,7 +10369,7 @@
     "college": "",
     "major": "반려동물산업학부",
     "core_subjects": "영어1, 영어2",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어1, 영어2",
     "note": "-"
   },
   {
