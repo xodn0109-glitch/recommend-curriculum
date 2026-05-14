@@ -263,15 +263,13 @@ function renderPart02Univ(univName) {
         while (j < rows.length && (((rows[j][key] ?? '') + '').trim()) === val) {
           // 키별로 병합 경계를 다르게 둡니다.
           // - major: 경계 없음 (값만 같으면 묶음)
-          // - note(비고): 단과대학 경계. 단과대가 비어 있으면 묶지 않음
-          // - core/recommended: 학과 경계
+          // - note / core / recommended: 단과대학 경계.
+          //   단과대가 비어 있으면 다음 행과 묶지 않음 (독립 모집단위 보호)
           if (key === 'major') {
             // pass
-          } else if (key === 'note') {
+          } else {
             const nextCollege = (((rows[j]['college'] ?? '') + '').trim());
             if (!collegeVal || nextCollege !== collegeVal) break;
-          } else {
-            if ((((rows[j]['major'] ?? '') + '').trim()) !== majorVal) break;
           }
           j++;
         }
