@@ -249,18 +249,54 @@ function renderPart02Univ(univName) {
     cur.rows.push(r);
   }
 
+  // 같은 그룹 안에서 연속된 동일 값을 rowspan으로 병합 (빈 값/'-'는 제외)
+  function calcSpans(rows, key) {
+    const spans = new Array(rows.length).fill(null);
+    let i = 0;
+    while (i < rows.length) {
+      const val = ((rows[i][key] ?? '') + '').trim();
+      let j = i + 1;
+      const mergeable = val && val !== '-';
+      if (mergeable) {
+        while (j < rows.length && (((rows[j][key] ?? '') + '').trim()) === val) j++;
+      }
+      spans[i] = { value: rows[i][key] || '', rowspan: j - i };
+      i = j;
+    }
+    return spans;
+  }
+
   const tableHtml = groups.map(g => {
     const collegeRow = g.college
-      ? `<tr><td colspan="4" style="background: var(--primary-soft); color: var(--primary); font-weight:700; padding:14px 12px;">${escapeHtml(g.college)}</td></tr>`
+      ? `<tr class="college-row"><td colspan="4">${escapeHtml(g.college)}</td></tr>`
       : '';
-    const rows = g.rows.map(r => `
-      <tr>
-        <td><strong>${escapeHtml(r.major)}</strong></td>
-        <td>${formatSubjects(r.core_subjects, 'core')}</td>
-        <td>${formatSubjects(r.recommended_subjects, 'rec')}</td>
-        <td style="font-size:13px; color: var(--text-muted);">${escapeHtml(r.note || '-')}</td>
-      </tr>
-    `).join('');
+    const coreSpans = calcSpans(g.rows, 'core_subjects');
+    const recSpans = calcSpans(g.rows, 'recommended_subjects');
+    const noteSpans = calcSpans(g.rows, 'note');
+
+    const rows = g.rows.map((r, idx) => {
+      let html = `<tr><td><strong>${escapeHtml(r.major)}</strong></td>`;
+      if (coreSpans[idx]) {
+        const s = coreSpans[idx];
+        const cls = s.rowspan > 1 ? ' class="merged"' : '';
+        const rs = s.rowspan > 1 ? ` rowspan="${s.rowspan}"` : '';
+        html += `<td${rs}${cls}>${formatSubjects(s.value, 'core')}</td>`;
+      }
+      if (recSpans[idx]) {
+        const s = recSpans[idx];
+        const cls = s.rowspan > 1 ? ' class="merged"' : '';
+        const rs = s.rowspan > 1 ? ` rowspan="${s.rowspan}"` : '';
+        html += `<td${rs}${cls}>${formatSubjects(s.value, 'rec')}</td>`;
+      }
+      if (noteSpans[idx]) {
+        const s = noteSpans[idx];
+        const cls = s.rowspan > 1 ? 'merged note-cell' : 'note-cell';
+        const rs = s.rowspan > 1 ? ` rowspan="${s.rowspan}"` : '';
+        html += `<td${rs} class="${cls}">${escapeHtml(s.value || '-')}</td>`;
+      }
+      html += `</tr>`;
+      return html;
+    }).join('');
     return collegeRow + rows;
   }).join('');
 
