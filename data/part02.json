@@ -1811,7 +1811,7 @@
     "college": "인문대학",
     "major": "국어국문학과, 중어중문학과, 영어영문학과, 불어불문학과, 독어독문학과, 노어노문학과, 서어서문학과, 언어학과, 아시아언어문명학부, 역사학부, 고고미술사학과, 철학과, 종교학과, 미학과",
     "core_subjects": "제2외국어/한문",
-    "recommended_subjects": "",
+    "recommended_subjects": "제2외국어/한문",
     "note": "해당 교과(군)의 일반 선택, 진로 선택, 융합 선택 과목 중 1과목 이상"
   },
   {
@@ -1822,7 +1822,7 @@
     "college": "사회과학대학",
     "major": "정치외교학부, 경제학부, 사회학과, 인류학과, 심리학과, 지리학과, 사회복지학과, 언론정보학과",
     "core_subjects": "제2외국어/한문",
-    "recommended_subjects": "",
+    "recommended_subjects": "제2외국어/한문",
     "note": "해당 교과(군)의 일반 선택, 진로 선택, 융합 선택 과목 중 1과목 이상"
   },
   {
@@ -1833,7 +1833,7 @@
     "college": "경영대학",
     "major": "경영학과",
     "core_subjects": "제2외국어/한문",
-    "recommended_subjects": "",
+    "recommended_subjects": "제2외국어/한문",
     "note": ""
   },
   {
@@ -1844,7 +1844,7 @@
     "college": "농업생명과학대학",
     "major": "농경제사회학부",
     "core_subjects": "제2외국어/한문",
-    "recommended_subjects": "",
+    "recommended_subjects": "제2외국어/한문",
     "note": ""
   },
   {
@@ -1855,7 +1855,7 @@
     "college": "사범대학",
     "major": "교육학과, 국어교육과, 영어교육과, 독어교육과, 불어교육과, 사회교육과, 역사교육과, 지리교육과, 윤리교육과",
     "core_subjects": "제2외국어/한문",
-    "recommended_subjects": "",
+    "recommended_subjects": "제2외국어/한문",
     "note": ""
   },
   {
@@ -1866,7 +1866,7 @@
     "college": "생활과학대학",
     "major": "소비자아동학부 소비자학전공, 소비자아동학부 아동가족학전공, 식품영양학과, 의류학과",
     "core_subjects": "제2외국어/한문",
-    "recommended_subjects": "",
+    "recommended_subjects": "제2외국어/한문",
     "note": ""
   },
   {
@@ -5716,7 +5716,7 @@
     "college": "",
     "major": "",
     "core_subjects": "제2외국어/한문",
-    "recommended_subjects": "",
+    "recommended_subjects": "제2외국어/한문",
     "note": "1과목 이상"
   },
   {
