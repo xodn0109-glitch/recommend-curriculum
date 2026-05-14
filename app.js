@@ -256,15 +256,25 @@ function renderPart02Univ(univName) {
     while (i < rows.length) {
       const val = ((rows[i][key] ?? '') + '').trim();
       const majorVal = ((rows[i]['major'] ?? '') + '').trim();
+      const collegeVal = ((rows[i]['college'] ?? '') + '').trim();
       let j = i + 1;
       const mergeable = val && val !== '-';
       if (mergeable) {
-        while (
-          j < rows.length &&
-          (((rows[j][key] ?? '') + '').trim()) === val &&
-          // major 칸 자체를 묶는 경우가 아니면, major가 바뀌는 지점에서 멈춤
-          (key === 'major' || (((rows[j]['major'] ?? '') + '').trim()) === majorVal)
-        ) j++;
+        while (j < rows.length && (((rows[j][key] ?? '') + '').trim()) === val) {
+          // 키별로 병합 경계를 다르게 둡니다.
+          // - major: 경계 없음 (값만 같으면 묶음)
+          // - note(비고): 단과대학 경계. 단과대가 비어 있으면 묶지 않음
+          // - core/recommended: 학과 경계
+          if (key === 'major') {
+            // pass
+          } else if (key === 'note') {
+            const nextCollege = (((rows[j]['college'] ?? '') + '').trim());
+            if (!collegeVal || nextCollege !== collegeVal) break;
+          } else {
+            if ((((rows[j]['major'] ?? '') + '').trim()) !== majorVal) break;
+          }
+          j++;
+        }
       }
       spans[i] = { value: rows[i][key] || '', rowspan: j - i };
       i = j;
