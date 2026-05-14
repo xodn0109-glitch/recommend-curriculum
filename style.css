@@ -362,14 +362,6 @@ table td.merged {
 table td:has(+ td.merged) {
   border-right: none;
 }
-.merged-label {
-  display: block;
-  font-size: 11px;
-  color: rgba(124, 92, 255, 0.7);
-  font-weight: 500;
-  margin-top: 6px;
-  letter-spacing: -0.01em;
-}
 /* 비고 셀 공통 */
 table td.note-cell {
   font-size: 13px;
