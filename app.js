@@ -277,17 +277,27 @@ function renderPart02Univ(univName) {
     const rows = g.rows.map((r, idx) => {
       let html = `<tr><td><strong>${escapeHtml(r.major)}</strong></td>`;
       const mergedStyle = ' style="vertical-align:top"';
-      if (coreSpans[idx]) {
-        const s = coreSpans[idx];
-        const isM = s.rowspan > 1;
-        const attr = isM ? ` rowspan="${s.rowspan}" class="merged"${mergedStyle}` : '';
-        html += `<td${attr}>${formatSubjects(s.value, 'core')}</td>`;
-      }
-      if (recSpans[idx]) {
-        const s = recSpans[idx];
-        const isM = s.rowspan > 1;
-        const attr = isM ? ` rowspan="${s.rowspan}" class="merged"${mergedStyle}` : '';
-        html += `<td${attr}>${formatSubjects(s.value, 'rec')}</td>`;
+      const cs = coreSpans[idx];
+      const rs = recSpans[idx];
+      // 핵심과 권장이 동일한 값·동일한 행 범위면 colspan으로 한 셀처럼 표시
+      const isColspan = cs && rs && cs.value && cs.value === rs.value && cs.rowspan === rs.rowspan;
+      if (isColspan) {
+        const isM = cs.rowspan > 1;
+        const rowAttr = isM ? ` rowspan="${cs.rowspan}"` : '';
+        const cls = isM ? ' class="merged"' : '';
+        const style = isM ? mergedStyle : '';
+        html += `<td colspan="2"${rowAttr}${cls}${style}>${formatSubjects(cs.value, 'core')}</td>`;
+      } else {
+        if (cs) {
+          const isM = cs.rowspan > 1;
+          const attr = isM ? ` rowspan="${cs.rowspan}" class="merged"${mergedStyle}` : '';
+          html += `<td${attr}>${formatSubjects(cs.value, 'core')}</td>`;
+        }
+        if (rs) {
+          const isM = rs.rowspan > 1;
+          const attr = isM ? ` rowspan="${rs.rowspan}" class="merged"${mergedStyle}` : '';
+          html += `<td${attr}>${formatSubjects(rs.value, 'rec')}</td>`;
+        }
       }
       if (noteSpans[idx]) {
         const s = noteSpans[idx];
