@@ -352,11 +352,10 @@ table th, table td {
 table th:last-child, table td:last-child {
   border-right: none;
 }
-/* rowspan으로 묶인 셀: 텍스트는 첫 행에 + 좌측 굵은 보라 세로선으로 한 덩어리임을 강조 */
+/* rowspan으로 묶인 셀: 텍스트는 첫 행에 + 옅은 배경으로 한 덩어리임을 표시 */
 table td.merged {
   vertical-align: top;
   background: rgba(124, 92, 255, 0.06);
-  box-shadow: inset 1px 0 0 var(--border);
 }
 .merged-label {
   display: block;
