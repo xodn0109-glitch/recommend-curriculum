@@ -205,7 +205,7 @@
     "college": "산업",
     "major": "산업경영공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ",
     "note": ""
   },
   {
@@ -1151,7 +1151,7 @@
     "college": "글로벌융합대학",
     "major": "인문사회, 유아교육과",
     "core_subjects": "국어, 영어, 사회(역사/도덕 포함), 제2외국어/한문 교과 적극 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회(역사/도덕 포함), 제2외국어/한문 교과 적극 이수",
     "note": "- 모집단위와 관계없이 기초학습역량을 위해 국어, 영어, 수학의 일반 선택 과목을 성실하게 이수하는 것을 권장함. - 교과별 과목의 학습위계를 고려하여 선택과목을 이수하는 것을 권장함."
   },
   {
@@ -1162,7 +1162,7 @@
     "college": "과학기술대학",
     "major": "과학기술대학",
     "core_subjects": "수학, 과학 교과 적극 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학 교과 적극 이수",
     "note": ""
   },
   {
@@ -1173,7 +1173,7 @@
     "college": "미래인재대학",
     "major": "가상현실융합학과, 데이터사이언스학과, AI신약학과",
     "core_subjects": "수학, 과학 교과 적극 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학 교과 적극 이수",
     "note": ""
   },
   {
@@ -1184,7 +1184,7 @@
     "college": "미래인재대학",
     "major": "자유전공학부",
     "core_subjects": "지식활용, 집단지성 기반 학습 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "지식활용, 집단지성 기반 학습 권장",
     "note": ""
   },
   {
@@ -1195,7 +1195,7 @@
     "college": "약학대학",
     "major": "약학과",
     "core_subjects": "수학, 과학(화학/생명과학 포함)교과 적극 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학(화학/생명과학 포함)교과 적극 이수",
     "note": ""
   },
   {
@@ -1624,7 +1624,7 @@
     "college": "공과대학",
     "major": "기계시스템공학부 (지능형로봇전공), 기계시스템공학부 (미래자동차전공), 기계공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자",
     "note": "-"
   },
   {
@@ -1635,7 +1635,7 @@
     "college": "공과대학",
     "major": "안전공학과, 신소재공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자, 물질과 에너지, 화학 반응의 세계",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자, 물질과 에너지, 화학 반응의 세계",
     "note": "-"
   },
   {
@@ -1646,7 +1646,7 @@
     "college": "공과대학",
     "major": "건설시스템공학과, 건축학부 (건축공학전공), 건축학부 (건축학전공)",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 기하, 역학과 에너지",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 기하, 역학과 에너지",
     "note": "-"
   },
   {
@@ -1657,7 +1657,7 @@
     "college": "정보통신대학",
     "major": "전기정보공학과, 전자공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자",
     "note": "-"
   },
   {
@@ -1668,7 +1668,7 @@
     "college": "정보통신대학",
     "major": "스마트ICT융합공학과, 컴퓨터공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 미적분Ⅱ, 기하",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 미적분Ⅱ, 기하",
     "note": "-"
   },
   {
@@ -1679,7 +1679,7 @@
     "college": "에너지바이오대학",
     "major": "화공생명공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 생명과학 미적분Ⅱ, 기하, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 생명과학 미적분Ⅱ, 기하, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사",
     "note": "-"
   },
   {
@@ -1690,7 +1690,7 @@
     "college": "에너지바이오대학",
     "major": "환경공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 생명과학 미적분Ⅱ, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 생명과학 미적분Ⅱ, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사",
     "note": "-"
   },
   {
@@ -1701,7 +1701,7 @@
     "college": "에너지바이오대학",
     "major": "식품생명공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 화학, 생명과학 미적분Ⅱ, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 화학, 생명과학 미적분Ⅱ, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
     "note": "-"
   },
   {
@@ -1712,7 +1712,7 @@
     "college": "에너지바이오대학",
     "major": "정밀화학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 물질과 에너지, 화학 반응의 세계",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 물질과 에너지, 화학 반응의 세계",
     "note": "-"
   },
   {
@@ -1723,7 +1723,7 @@
     "college": "에너지바이오대학",
     "major": "안경광학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 역학과 에너지, 전자기와 양자",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학, 미적분Ⅱ, 역학과 에너지, 전자기와 양자",
     "note": "-"
   },
   {
@@ -1734,7 +1734,7 @@
     "college": "에너지바이오대학",
     "major": "바이오메디컬학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 화학, 생명과학 미적분Ⅱ, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 화학, 생명과학 미적분Ⅱ, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
     "note": "-"
   },
   {
@@ -1745,7 +1745,7 @@
     "college": "기술경영융합대학",
     "major": "산업공학과(산업 정보시스템전공), 산업공학과 (ITM전공)",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ",
     "note": "-"
   },
   {
@@ -1756,7 +1756,7 @@
     "college": "기술경영융합대학",
     "major": "MSDE학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자",
     "note": "-"
   },
   {
@@ -1767,7 +1767,7 @@
     "college": "기술경영융합대학",
     "major": "경영학과(글로벌테 크노경영전공)",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ",
     "note": "-"
   },
   {
@@ -1778,7 +1778,7 @@
     "college": "창의융합대학",
     "major": "인공지능응용학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자",
     "note": "-"
   },
   {
@@ -1789,7 +1789,7 @@
     "college": "창의융합대학",
     "major": "지능형반도체공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학 미적분Ⅱ,기하, 역학과 에너지, 전자기와 양자",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학 미적분Ⅱ,기하, 역학과 에너지, 전자기와 양자",
     "note": "-"
   },
   {
@@ -1800,7 +1800,7 @@
     "college": "창의융합대학",
     "major": "미래에너지융합학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자, 물질과 에너지, 화학 반응의 세계",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 물리학, 화학 미적분Ⅱ, 기하, 역학과 에너지, 전자기와 양자, 물질과 에너지, 화학 반응의 세계",
     "note": "-"
   },
   {
@@ -2097,7 +2097,7 @@
     "college": "사범대학",
     "major": "물리교육과",
     "core_subjects": "물리학",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학",
     "note": ""
   },
   {
@@ -2108,7 +2108,7 @@
     "college": "사범대학",
     "major": "화학교육과",
     "core_subjects": "화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학",
     "note": ""
   },
   {
@@ -2119,7 +2119,7 @@
     "college": "사범대학",
     "major": "생물교육과",
     "core_subjects": "생명과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "생명과학",
     "note": ""
   },
   {
@@ -2130,7 +2130,7 @@
     "college": "사범대학",
     "major": "지구과학교육과",
     "core_subjects": "지구과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "지구과학",
     "note": ""
   },
   {
@@ -2152,7 +2152,7 @@
     "college": "생활과학대학",
     "major": "의류학과",
     "core_subjects": "-",
-    "recommended_subjects": "",
+    "recommended_subjects": "-",
     "note": ""
   },
   {
@@ -2691,7 +2691,7 @@
     "college": "인문대학",
     "major": "기독교학과, 국어국문학과, 영어영문학과, 독어독문학과, 불어불문학과, 중어중문학과, 일어일문학과, 철학과, 사학과",
     "core_subjects": "국어, 영어, 사회 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회 교과 영역 이수 권장",
     "note": "-"
   },
   {
@@ -2702,7 +2702,7 @@
     "college": "법과대학",
     "major": "법학과, 국제법무학과",
     "core_subjects": "국어, 영어, 사회 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회 교과 영역 이수 권장",
     "note": "-"
   },
   {
@@ -2713,7 +2713,7 @@
     "college": "사회과학대학",
     "major": "사회복지학부, 행정학부, 정치외교학과, 정보사회학과, 언론홍보학과, 평생교육학과",
     "core_subjects": "국어, 수학, 사회, 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 사회, 교과 영역 이수 권장",
     "note": "수학: 대수, 미적분Ⅰ, 확률과 통계 이수 권장"
   },
   {
@@ -2724,7 +2724,7 @@
     "college": "경제통상대학",
     "major": "경제학과, 글로벌통상학과",
     "core_subjects": "국어, 수학, 사회, 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 사회, 교과 영역 이수 권장",
     "note": "수학: 대수, 미적분Ⅰ, 확률과 통계 이수 권장"
   },
   {
@@ -2746,7 +2746,7 @@
     "college": "자연과학대학",
     "major": "수학과, 정보통계·보험수리 학과",
     "core_subjects": "수학, 과학 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학 교과 영역 이수 권장",
     "note": "수학: 기하, 미적분Ⅱ 중 이수 권장 ‘과학’으로 포괄적으로 제시된 경우 진로와 관심에 따라 교과목을 선택할 것을 권장하며, 권장 영역 외 과학 과목 이수도 의미 있게 평가에 반영함"
   },
   {
@@ -2757,7 +2757,7 @@
     "college": "자연과학대학",
     "major": "물리학과",
     "core_subjects": "수학, 과학(물리학) 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학(물리학) 교과 영역 이수 권장",
     "note": "수학: 기하, 미적분Ⅱ 중 이수 권장 ‘과학’으로 포괄적으로 제시된 경우 진로와 관심에 따라 교과목을 선택할 것을 권장하며, 권장 영역 외 과학 과목 이수도 의미 있게 평가에 반영함"
   },
   {
@@ -2768,7 +2768,7 @@
     "college": "자연과학대학",
     "major": "화학과",
     "core_subjects": "수학, 과학(화학) 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학(화학) 교과 영역 이수 권장",
     "note": "수학: 기하, 미적분Ⅱ 중 이수 권장 ‘과학’으로 포괄적으로 제시된 경우 진로와 관심에 따라 교과목을 선택할 것을 권장하며, 권장 영역 외 과학 과목 이수도 의미 있게 평가에 반영함"
   },
   {
@@ -2779,7 +2779,7 @@
     "college": "자연과학대학",
     "major": "의생명시스템학부",
     "core_subjects": "수학, 과학(생명과학) 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학(생명과학) 교과 영역 이수 권장",
     "note": "수학: 기하, 미적분Ⅱ 중 이수 권장 ‘과학’으로 포괄적으로 제시된 경우 진로와 관심에 따라 교과목을 선택할 것을 권장하며, 권장 영역 외 과학 과목 이수도 의미 있게 평가에 반영함"
   },
   {
@@ -2790,7 +2790,7 @@
     "college": "공과대학",
     "major": "화학공학과, 신소재공학과",
     "core_subjects": "수학, 과학(화학) 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학(화학) 교과 영역 이수 권장",
     "note": ""
   },
   {
@@ -2801,7 +2801,7 @@
     "college": "공과대학",
     "major": "전기공학부, 건축학부(건축학· 건축공학전공), 건축학부(실내건축 전공)",
     "core_subjects": "수학, 과학(물리학) 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학(물리학) 교과 영역 이수 권장",
     "note": ""
   },
   {
@@ -2812,7 +2812,7 @@
     "college": "공과대학",
     "major": "산업·정보시스템 공학과",
     "core_subjects": "수학, 과학 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학 교과 영역 이수 권장",
     "note": ""
   },
   {
@@ -2823,7 +2823,7 @@
     "college": "IT대학",
     "major": "컴퓨터학부, 글로벌미디어학부",
     "core_subjects": "수학, 과학 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학 교과 영역 이수 권장",
     "note": ""
   },
   {
@@ -2834,7 +2834,7 @@
     "college": "IT대학",
     "major": "전자정보공학부 (전자공학전공), 전자정보공학부 (IT융합전공)",
     "core_subjects": "수학, 과학(물리학) 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학(물리학) 교과 영역 이수 권장",
     "note": ""
   },
   {
@@ -2845,7 +2845,7 @@
     "college": "AI대학",
     "major": "AI소프트웨어학부 정보보호학과",
     "core_subjects": "수학, 과학 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학 교과 영역 이수 권장",
     "note": ""
   },
   {
@@ -2856,7 +2856,7 @@
     "college": "베어드학부대학",
     "major": "자유전공학부(인문)",
     "core_subjects": "국어, 영어, 사회 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회 교과 영역 이수 권장",
     "note": ""
   },
   {
@@ -2867,7 +2867,7 @@
     "college": "베어드학부대학",
     "major": "자유전공학부(자연)",
     "core_subjects": "수학, 과학 교과 영역 이수 권장",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학 교과 영역 이수 권장",
     "note": ""
   },
   {
@@ -2878,7 +2878,7 @@
     "college": "",
     "major": "기계공학부, 물리학과, 사회기반시스템공학부 (건설환경플렌트공학), 전자전기공학부, 지능형반도체공학과",
     "core_subjects": "미적분Ⅱ, 기하, 물리학, 화학, 역학과 에너지, 전자기와 양자",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 기하, 물리학, 화학, 역학과 에너지, 전자기와 양자",
     "note": "-"
   },
   {
@@ -2889,7 +2889,7 @@
     "college": "",
     "major": "에너지시스템공학부 첨단소재공학과, 화학공학과",
     "core_subjects": "미적분Ⅱ, 기하, 물리학, 화학, 물질과 에너지, 화학 반응의 세계",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 기하, 물리학, 화학, 물질과 에너지, 화학 반응의 세계",
     "note": "-"
   },
   {
@@ -2900,7 +2900,7 @@
     "college": "",
     "major": "융합공학부",
     "core_subjects": "미적분Ⅱ, 기하, 화학(물리학) 또는 (생명과학), 물질과 에너지, 화학 반응의 세계",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 기하, 화학(물리학) 또는 (생명과학), 물질과 에너지, 화학 반응의 세계",
     "note": "-"
   },
   {
@@ -2911,7 +2911,7 @@
     "college": "",
     "major": "건축학부, 사회기반시스템공학부 (도시시스템공학), 소프트웨어학부",
     "core_subjects": "미적분Ⅱ, 기하, 물리학, 역학과 에너지, 전자기와 양자",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 기하, 물리학, 역학과 에너지, 전자기와 양자",
     "note": "-"
   },
   {
@@ -2922,7 +2922,7 @@
     "college": "",
     "major": "AI학부, 산업보안학과(자연), 수학과, 예술공학부",
     "core_subjects": "미적분Ⅱ, 기하",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 기하",
     "note": "-"
   },
   {
@@ -2933,7 +2933,7 @@
     "college": "",
     "major": "약학부, 의학부",
     "core_subjects": "미적분Ⅱ, 기하, 생명과학, 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 기하, 생명과학, 화학",
     "note": "-"
   },
   {
@@ -2944,7 +2944,7 @@
     "college": "",
     "major": "",
     "core_subjects": "물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
     "note": "3과목 이상"
   },
   {
@@ -2955,7 +2955,7 @@
     "college": "",
     "major": "생명과학과",
     "core_subjects": "미적분Ⅱ, 생명과학, 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 생명과학, 화학",
     "note": "-"
   },
   {
@@ -2966,7 +2966,7 @@
     "college": "",
     "major": "",
     "core_subjects": "물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
     "note": "2과목 이상"
   },
   {
@@ -2977,7 +2977,7 @@
     "college": "",
     "major": "화학과",
     "core_subjects": "미적분Ⅱ, 화학, (물리학) 또는 (생명과학)",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 화학, (물리학) 또는 (생명과학)",
     "note": "-"
   },
   {
@@ -2988,7 +2988,7 @@
     "college": "",
     "major": "",
     "core_subjects": "물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
     "note": "2과목 이상"
   },
   {
@@ -2999,7 +2999,7 @@
     "college": "",
     "major": "시스템생명공학과, 식품공학과 (식품공학, 식품영양)",
     "core_subjects": "(미적분Ⅱ) 또는 (기하), 생명과학, 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "(미적분Ⅱ) 또는 (기하), 생명과학, 화학",
     "note": "-"
   },
   {
@@ -3010,7 +3010,7 @@
     "college": "",
     "major": "",
     "core_subjects": "물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전",
     "note": "2과목 이상"
   },
   {
@@ -3021,7 +3021,7 @@
     "college": "",
     "major": "간호학과",
     "core_subjects": "미적분Ⅱ, 생명과학, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 생명과학, 세포와 물질대사, 생물의 유전",
     "note": "-"
   },
   {
@@ -3032,7 +3032,7 @@
     "college": "",
     "major": "생명자원공학부 (동물생명공학, 식물생명공학)",
     "core_subjects": "미적분Ⅱ, 생명과학, 화학, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ, 생명과학, 화학, 세포와 물질대사, 생물의 유전",
     "note": "-"
   },
   {
@@ -3043,7 +3043,7 @@
     "college": "스포츠과학대학",
     "major": "체육학과, 경기지도학과",
     "core_subjects": "체육1, 체육2, 스포츠과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육1, 체육2, 스포츠과학",
     "note": "융합 선택 과목: 스포츠 생활1"
   },
   {
@@ -3054,7 +3054,7 @@
     "college": "생활체육대학",
     "major": "사회체육학과, 스포츠청소년지도학과",
     "core_subjects": "체육1, 체육2, 스포츠과학, 스포츠문화",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육1, 체육2, 스포츠과학, 스포츠문화",
     "note": "-"
   },
   {
@@ -3065,7 +3065,7 @@
     "college": "생활체육대학",
     "major": "특수체육교육과",
     "core_subjects": "체육1, 체육2, 스포츠과학, 운동과 건강",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육1, 체육2, 스포츠과학, 운동과 건강",
     "note": "-"
   },
   {
@@ -3076,7 +3076,7 @@
     "college": "생활체육대학",
     "major": "스포츠산업학과",
     "core_subjects": "체육1, 체육2, 스포츠과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육1, 체육2, 스포츠과학",
     "note": "융합 선택 과목: 스포츠 생활1"
   },
   {
@@ -3087,7 +3087,7 @@
     "college": "생활체육대학",
     "major": "운동건강관리학과, 노인체육복지학과",
     "core_subjects": "체육1, 체육2, 스포츠과학, 운동과 건강",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육1, 체육2, 스포츠과학, 운동과 건강",
     "note": "-"
   },
   {
@@ -3098,7 +3098,7 @@
     "college": "스포츠문화예술대학",
     "major": "태권도학과",
     "core_subjects": "체육1, 체육2, 스포츠과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육1, 체육2, 스포츠과학",
     "note": "융합 선택 과목: 스포츠 생활1"
   },
   {
@@ -3109,7 +3109,7 @@
     "college": "스포츠문화예술대학",
     "major": "공연예술학과",
     "core_subjects": "체육1, 체육2, 운동과 건강",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육1, 체육2, 운동과 건강",
     "note": "융합 선택 과목: 스포츠 생활1"
   },
   {
@@ -3120,7 +3120,7 @@
     "college": "자연",
     "major": "전 모집단위",
     "core_subjects": "미적분Ⅱ 또는 기하, 물리학/화학/생명과학 중 1과목 이상 과학 진로 선택 과목 2과목 이상",
-    "recommended_subjects": "",
+    "recommended_subjects": "미적분Ⅱ 또는 기하, 물리학/화학/생명과학 중 1과목 이상 과학 진로 선택 과목 2과목 이상",
     "note": "진로 선택 과목은 계열과 교과 위계에 맞게 선택하는 것을 권장함."
   },
   {
@@ -3329,7 +3329,7 @@
     "college": "",
     "major": "인문/예체능",
     "core_subjects": "국어, 영어, 수학, 사회(2과목), 과학, 한국사",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 사회(2과목), 과학, 한국사",
     "note": "인문/예체능, 자연/공학 계열별로 사회, 과학 이수 과목 수 지정 관심분야 일반 선택 과목 우선 이수 권장"
   },
   {
@@ -3340,7 +3340,7 @@
     "college": "",
     "major": "자연/공학(수학과 제외)",
     "core_subjects": "국어, 영어, 수학, 사회, 과학(3과목), 한국사",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 사회, 과학(3과목), 한국사",
     "note": ""
   },
   {
@@ -3362,7 +3362,7 @@
     "college": "인문계열",
     "major": "퇴계혁신칼리지, 인문계열광역, 사회계열광역, 문과대학, 법과대학, 사회과학대학, 경영경제대학, 프리무스국제대학, 사범대학",
     "core_subjects": "국어, 수학, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 사회",
     "note": "*일반 선택 과목 이수 후 진로와 적성에 맞게 진로 선택 과목, 융합 선택 과목을 이수할 것."
   },
   {
@@ -3373,7 +3373,7 @@
     "college": "자연계열",
     "major": "퇴계혁신칼리지, 공학계열광역, SW융합계열 광역, 공과대학, SW융합대학, 프리무스국제 대학,사범대학",
     "core_subjects": "국어, 수학, 영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 과학",
     "note": ""
   },
   {
@@ -3384,7 +3384,7 @@
     "college": "미래인재융합 대학",
     "major": "자율전공학부",
     "core_subjects": "계열 구분 없이 희망하는 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "계열 구분 없이 희망하는 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "* 2028학년도 학생부종합전형 모집단위별 반영과목 안내 교과(군)별 과목의 위계를 따라 일반 선택 과목을 우선 이수하고, 진로와"
   },
   {
@@ -3395,7 +3395,7 @@
     "college": "미래인재융합 대학",
     "major": "인문사회계열 자율전공학부",
     "core_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": ""
   },
   {
@@ -3406,7 +3406,7 @@
     "college": "미래인재융합 대학",
     "major": "공학계열자율 전공학부",
     "core_subjects": "공학계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "공학계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "적성에 맞게 진로 선택 과목과 융합 선택 과목 이수 권장"
   },
   {
@@ -3417,7 +3417,7 @@
     "college": "인문대학",
     "major": "국어국문학과, 영어영문학과, 중어중문학과",
     "core_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "* 2028학년도 학생부종합전형 모집단위별 반영과목 안내 교과(군)별 과목의 위계를 따라 일반 선택 과목을 우선 이수하고, 진로와 적성에 맞게 진로 선택 과목과 융합 선택 과목 이수 권장"
   },
   {
@@ -3428,7 +3428,7 @@
     "college": "사회과학대학",
     "major": "국제개발협력 학과, 행정학부, 사회복지학과, 관광학과",
     "core_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "* 2028학년도 학생부종합전형 모집단위별 반영과목 안내 교과(군)별 과목의 위계를 따라 일반 선택 과목을 우선 이수하고, 진로와 적성에 맞게 진로 선택 과목과 융합 선택 과목 이수 권장"
   },
   {
@@ -3439,7 +3439,7 @@
     "college": "글로벌경영 기술대학",
     "major": "경영학과, 글로벌물류학과",
     "core_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "* 2028학년도 학생부종합전형 모집단위별 반영과목 안내 교과(군)별 과목의 위계를 따라 일반 선택 과목을 우선 이수하고, 진로와 적성에 맞게 진로 선택 과목과 융합 선택 과목 이수 권장"
   },
   {
@@ -3450,7 +3450,7 @@
     "college": "글로벌경영 기술대학",
     "major": "산업경영공학과",
     "core_subjects": "공학계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "공학계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "* 2028학년도 학생부종합전형 모집단위별 반영과목 안내 교과(군)별 과목의 위계를 따라 일반 선택 과목을 우선 이수하고, 진로와 적성에 맞게 진로 선택 과목과 융합 선택 과목 이수 권장"
   },
   {
@@ -3461,7 +3461,7 @@
     "college": "IT공과대학",
     "major": "컴퓨터공학과, 정보통신공학과, 미디어소프트 웨어학과, 도시디자인정 보공학과",
     "core_subjects": "공학계열 진로 및 적성을 고려하여 교과목 선택 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "공학계열 진로 및 적성을 고려하여 교과목 선택 이수",
     "note": "* 2028학년도 학생부종합전형 모집단위별 반영과목 안내 교과(군)별 과목의 위계를 따라 일반 선택 과목을 우선 이수하고, 진로와 적성에 맞게 진로 선택 과목과 융합 선택 과목 이수 권장"
   },
   {
@@ -3472,7 +3472,7 @@
     "college": "공과대학",
     "major": "기계공학과, 산업공학과, 화학공학과, 첨단신소재공 학과, 응용화학과, 환경안전공학과, 건설시스템공 학과, 교통시스템공 학과, 건축학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계 수학: 일반 선택 과목 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수 사회/과학: 과학 관련 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계 수학: 일반 선택 과목 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수 사회/과학: 과학 관련 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수",
     "note": "-"
   },
   {
@@ -3560,7 +3560,7 @@
     "college": "경영대학",
     "major": "경영학과, 경영인텔리 전스학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계 수학: 일반 선택 과목 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수 사회/과학: 과학 관련 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계 수학: 일반 선택 과목 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수 사회/과학: 과학 관련 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수",
     "note": "-"
   },
   {
@@ -3571,7 +3571,7 @@
     "college": "인문대학",
     "major": "국어국문학과, 영어영문학과, 불어불문학과, 사학과, 문화콘텐츠학과",
     "core_subjects": "수학: 진로와 적성에 맞게 과목 이수 사회/과학: 진로와 적성에 맞게 과목 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학: 진로와 적성에 맞게 과목 이수 사회/과학: 진로와 적성에 맞게 과목 이수",
     "note": "-"
   },
   {
@@ -3582,7 +3582,7 @@
     "college": "사회과학대학",
     "major": "행정학과, 심리학과, 경제정치사회 융합학부",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계 수학: 일반 선택 과목 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수 사회/과학: 과학 관련 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계 수학: 일반 선택 과목 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수 사회/과학: 과학 관련 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수",
     "note": ""
   },
   {
@@ -3593,7 +3593,7 @@
     "college": "공학",
     "major": "공과대학, AI융합대학, 스마트드론공 학과, AI자율주행 시스템공학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ, 기하",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ, 기하",
     "note": "과학은 일반 선택 과목 먼저 이수 후, 진로와 적성에 맞게 진로 선택 과목 이수"
   },
   {
@@ -3604,7 +3604,7 @@
     "college": "이학",
     "major": "항공경영대학 (이학적성), 항공운항학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계",
     "note": ""
   },
   {
@@ -3967,7 +3967,7 @@
     "college": "웨슬리대학",
     "major": "신학과",
     "core_subjects": "인문사회계열 적성과 진로에 따라 선택과목 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 적성과 진로에 따라 선택과목 이수",
     "note": "-"
   },
   {
@@ -3978,7 +3978,7 @@
     "college": "인문사회과학 대학",
     "major": "문예창작학과, 사회복지학과, 아동보육학과, 중국어문화학과, 도시행정학과",
     "core_subjects": "인문사회계열 적성과 진로에 따라 선택과목 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "인문사회계열 적성과 진로에 따라 선택과목 이수",
     "note": "-"
   },
   {
@@ -4000,7 +4000,7 @@
     "college": "이공대학",
     "major": "컴퓨터공학과, 소프트웨어 공학과, 건축공학과, 도시공학과, 보건관리학과, 의생명화학과",
     "core_subjects": "이공계열 적성과 진로에 따라 선택과목 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "이공계열 적성과 진로에 따라 선택과목 이수",
     "note": "-"
   },
   {
@@ -4011,7 +4011,7 @@
     "college": "미래창의융합 학부",
     "major": "자율전공학부",
     "core_subjects": "자신의 적성과 진로에 기반하여 자율적으로 선택과목 이수",
-    "recommended_subjects": "",
+    "recommended_subjects": "자신의 적성과 진로에 기반하여 자율적으로 선택과목 이수",
     "note": "-"
   },
   {
@@ -4022,7 +4022,7 @@
     "college": "전체",
     "major": "전 모집단위 (약학과 제외)",
     "core_subjects": "전 과목",
-    "recommended_subjects": "",
+    "recommended_subjects": "전 과목",
     "note": "진로와 적성에 따라 과목 선택 이수 권장"
   },
   {
@@ -4044,7 +4044,7 @@
     "college": "인문과학대학",
     "major": "철학생명의료 윤리학과, 한국어문학과",
     "core_subjects": "국어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회",
     "note": "-"
   },
   {
@@ -4055,7 +4055,7 @@
     "college": "인문과학대학",
     "major": "역사고고미술사 학과, 교육학과, 아동학과",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": "-"
   },
   {
@@ -4066,7 +4066,7 @@
     "college": "자연과학대학",
     "major": "정보수학과, 화학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -4077,7 +4077,7 @@
     "college": "자연과학대학",
     "major": "반도체학과",
     "core_subjects": "영어, 수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학, 과학",
     "note": "-"
   },
   {
@@ -4088,7 +4088,7 @@
     "college": "자연과학대학",
     "major": "바이오메디컬학과",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "-"
   },
   {
@@ -4099,7 +4099,7 @@
     "college": "사회과학대학",
     "major": "정치·사회학부_ 정치외교학전공",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": "-"
   },
   {
@@ -4110,7 +4110,7 @@
     "college": "사회과학대학",
     "major": "정치·사회학부_ 사회학전공",
     "core_subjects": "국어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회",
     "note": "-"
   },
   {
@@ -4121,7 +4121,7 @@
     "college": "사회과학대학",
     "major": "행정학과, 사회복지학과, 미디어커뮤니 케이션학과, 경찰학과",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": "-"
   },
   {
@@ -4132,7 +4132,7 @@
     "college": "사회과학대학",
     "major": "경제학과",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": "-"
   },
   {
@@ -4143,7 +4143,7 @@
     "college": "경영대학",
     "major": "경영학과, 경영정보학과",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": "-"
   },
   {
@@ -4154,7 +4154,7 @@
     "college": "경영대학",
     "major": "국제무역학과",
     "core_subjects": "영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회",
     "note": "-"
   },
   {
@@ -4165,7 +4165,7 @@
     "college": "경영대학",
     "major": "관광경영학과, 금융학과, 지식서비스경영 학과",
     "core_subjects": "국어, 영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학",
     "note": "-"
   },
   {
@@ -4176,7 +4176,7 @@
     "college": "생명자원과학 대학",
     "major": "바이오소재공학과 응용생물공학과 식품생명공학과 스마트그린자원 학과",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "-"
   },
   {
@@ -4187,7 +4187,7 @@
     "college": "공과대학",
     "major": "건설시스템공학과, 건축공학과",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": "-"
   },
   {
@@ -4198,7 +4198,7 @@
     "college": "공과대학",
     "major": "전기공학과, 기계공학과, 신소재공학과, 환경·에너지공학부 미래에너지공학 전공",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -4209,7 +4209,7 @@
     "college": "공과대학",
     "major": "전자공학과, 산업경영공학과, 조선해양공학과, 도시공학과, 환경·에너지공학부 환경안전전공",
     "core_subjects": "영어, 수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학, 과학",
     "note": "-"
   },
   {
@@ -4220,7 +4220,7 @@
     "college": "공과대학",
     "major": "화학공학과",
     "core_subjects": "국어, 영어, 수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 과학",
     "note": "-"
   },
   {
@@ -4231,7 +4231,7 @@
     "college": "디자인환경 대학",
     "major": "건축학과",
     "core_subjects": "국어, 영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학",
     "note": "-"
   },
   {
@@ -4242,7 +4242,7 @@
     "college": "디자인환경 대학",
     "major": "산업디자인학과",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": "-"
   },
   {
@@ -4253,7 +4253,7 @@
     "college": "디자인환경 대학",
     "major": "패션디자인학과",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": "-"
   },
   {
@@ -4264,7 +4264,7 @@
     "college": "디자인환경 대학",
     "major": "조경학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -4275,7 +4275,7 @@
     "college": "예술체육대학",
     "major": "체육학과, 미술학과, 음악학과 (신규)",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": "-"
   },
   {
@@ -4286,7 +4286,7 @@
     "college": "예술체육대학",
     "major": "태권도학과 (신규)",
     "core_subjects": "국어, 영어, 수학, 사회, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 사회, 과학",
     "note": "-"
   },
   {
@@ -4297,7 +4297,7 @@
     "college": "건강과학대학",
     "major": "식품영양학과, 의약생명공학과",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "-"
   },
   {
@@ -4308,7 +4308,7 @@
     "college": "건강과학대학",
     "major": "건강관리학과",
     "core_subjects": "영어, 수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학, 과학",
     "note": "-"
   },
   {
@@ -4319,7 +4319,7 @@
     "college": "건강과학대학",
     "major": "작업치료학과",
     "core_subjects": "국어, 영어, 수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 과학",
     "note": "-"
   },
   {
@@ -4330,7 +4330,7 @@
     "college": "의과대학",
     "major": "의예과",
     "core_subjects": "국어, 영어, 수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 과학",
     "note": "-"
   },
   {
@@ -4341,7 +4341,7 @@
     "college": "국제대학",
     "major": "글로벌비즈니스 학과",
     "core_subjects": "영어, 수학, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학, 사회",
     "note": "-"
   },
   {
@@ -4352,7 +4352,7 @@
     "college": "국제대학",
     "major": "영미학과, 중국학과, 일본학과",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": "-"
   },
   {
@@ -4363,7 +4363,7 @@
     "college": "소프트웨어대학",
     "major": "컴퓨터공학과, AI학과",
     "core_subjects": "영어, 수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학, 과학",
     "note": "-"
   },
   {
@@ -4374,7 +4374,7 @@
     "college": "간호대학",
     "major": "간호학과",
     "core_subjects": "국어, 영어, 수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 과학",
     "note": "-"
   },
   {
@@ -4385,7 +4385,7 @@
     "college": "석당인재학부",
     "major": "석당인재학부",
     "core_subjects": "국어, 영어, 수학, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 사회",
     "note": "-"
   },
   {
@@ -4396,7 +4396,7 @@
     "college": "융합대학",
     "major": "자유전공학부 (신규)",
     "core_subjects": "국어, 영어, 수학, 사회, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 사회, 과학",
     "note": "-"
   },
   {
@@ -4407,7 +4407,7 @@
     "college": "경제통상대학",
     "major": "경제학부",
     "core_subjects": "확률과 통계, 미적분Ⅰ, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "확률과 통계, 미적분Ⅰ, 미적분Ⅱ",
     "note": "제시 과목 중, 1과목 이상 이수"
   },
   {
@@ -4429,7 +4429,7 @@
     "college": "자연과학대학",
     "major": "수학과, 통계학과",
     "core_subjects": "확률과 통계, 기하, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "확률과 통계, 기하, 미적분Ⅱ",
     "note": "제시 과목 중, 2과목 이상 이수"
   },
   {
@@ -4440,7 +4440,7 @@
     "college": "자연과학대학",
     "major": "화학과, 생명과학과, 미생물학과, 분자생물학과",
     "core_subjects": "화학, 생명과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학, 생명과학",
     "note": "제시 과목 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수 - 화학 관련 과목: 화학, 물질과 에너지, 화학 반응의 세계 - 생명과학 관련 과목: 생명과학, 세포와 물질대사, 생물의 유전"
   },
   {
@@ -4451,7 +4451,7 @@
     "college": "자연과학대학",
     "major": "물리학과",
     "core_subjects": "기하, 미적분Ⅱ, 물리학, 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "기하, 미적분Ⅱ, 물리학, 화학",
     "note": "기하, 미적분Ⅱ 중 1과목 이상 이수, 물리학, 화학 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수 - 물리학 관련 과목: 물리학, 역학과 에너지, 전자기와 양자 - 화학 관련 과목: 화학, 물질과 에너지, 화학 반응의 세계"
   },
   {
@@ -4462,7 +4462,7 @@
     "college": "자연과학대학",
     "major": "지질환경과학과, 해양학과, 대기환경과학과",
     "core_subjects": "물리학, 지구과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학, 지구과학",
     "note": "제시 과목 관련 일반 선택 과목 및 진로 선택 과목 중 1과목 이상 이수 - 물리학 관련 과목: 물리학, 역학과 에너지, 전자기와 양자 - 지구과학 관련 과목: 지구과학, 지구시스템과학, 행성우주과학"
   },
   {
@@ -4473,7 +4473,7 @@
     "college": "공과대학",
     "major": "산업공학과",
     "core_subjects": "확률과 통계, 기하, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "확률과 통계, 기하, 미적분Ⅱ",
     "note": "제시 과목 중, 2과목 이상 이수"
   },
   {
@@ -4484,7 +4484,7 @@
     "college": "공과대학",
     "major": "기계공학부, 고분자공학과, 유기소재시스템 공학과, 화공생명공학과, 환경공학과, 재료공학부, 전기전자공학부 전기공학전공, 전자공학전공, 반도체공학전공, 건축공학과, 사회기반시스템 공학과, 항공우주공학과, 조선·해양공학과, 첨단IT자율전공, 첨단소재자율전공, 첨단모빌리티 자율전공",
     "core_subjects": "기하, 미적분Ⅱ, 물리학 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "기하, 미적분Ⅱ, 물리학 화학",
     "note": "기하, 미적분Ⅱ 중 1과목 이상 이수, 물리학, 화학 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수"
   },
   {
@@ -4495,7 +4495,7 @@
     "college": "공과대학",
     "major": "수학교육과, IT응용공학과, 정보컴퓨터공학부 (검퓨터공학전공, 인공지능전공, 디자인테크놀로지 전공)",
     "core_subjects": "확률과 통계, 기하, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "확률과 통계, 기하, 미적분Ⅱ",
     "note": "제시 과목 중, 2과목 이상 이수"
   },
   {
@@ -4506,7 +4506,7 @@
     "college": "사범대학",
     "major": "생물교육과",
     "core_subjects": "화학, 생명과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학, 생명과학",
     "note": "제시 과목 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수 - 화학 관련 과목: 화학, 물질과 에너지, 화학 반응의 세계 - 생명과학 관련 과목: 생명과학, 세포와 물질대사, 생물의 유전"
   },
   {
@@ -4517,7 +4517,7 @@
     "college": "사범대학",
     "major": "수학교육과",
     "core_subjects": "확률과 통계, 기하, 미적분Ⅱ",
-    "recommended_subjects": "",
+    "recommended_subjects": "확률과 통계, 기하, 미적분Ⅱ",
     "note": "제시 과목 중, 2과목 이상 이수"
   },
   {
@@ -4528,7 +4528,7 @@
     "college": "사범대학",
     "major": "물리교육과, 화학교육과",
     "core_subjects": "기하, 미적분Ⅱ, 물리학 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "기하, 미적분Ⅱ, 물리학 화학",
     "note": "기하, 미적분Ⅱ 중 1과목 이상 이수, 물리학, 화학 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수"
   },
   {
@@ -4539,7 +4539,7 @@
     "college": "사범대학",
     "major": "지구과학교육과",
     "core_subjects": "물리학, 지구과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학, 지구과학",
     "note": "제시 과목 관련 일반 선택 과목 및 진로 선택 과목 중 1과목 이상 이수 - 물리학 관련 과목: 물리학, 역학과 에너지, 전자기와 양자 - 지구과학 관련 과목: 지구과학, 지구시스템과학, 행성우주과학"
   },
   {
@@ -4550,7 +4550,7 @@
     "college": "생활과학대학",
     "major": "식품영양학과",
     "core_subjects": "화학, 생명과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학, 생명과학",
     "note": "제시 과목 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수 - 화학 관련 과목: 화학, 물질과 에너지, 화학 반응의 세계 - 생명과학 관련 과목: 생명과학, 세포와 물질대사, 생물의 유전"
   },
   {
@@ -4572,7 +4572,7 @@
     "college": "생명자원과학 대학",
     "major": "바비오산업기계 공학과",
     "core_subjects": "기하, 미적분Ⅱ, 물리학 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "기하, 미적분Ⅱ, 물리학 화학",
     "note": "기하, 미적분Ⅱ 중 1과목 이상 이수, 물리학, 화학 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수"
   },
   {
@@ -4583,7 +4583,7 @@
     "college": "간호대학",
     "major": "간호학과",
     "core_subjects": "화학, 생명과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학, 생명과학",
     "note": "제시 과목 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수 - 화학 관련 과목: 화학, 물질과 에너지, 화학 반응의 세계 - 생명과학 관련 과목: 생명과학, 세포와 물질대사, 생물의 유전"
   },
   {
@@ -4638,7 +4638,7 @@
     "college": "정보의생명공 학대학",
     "major": "의생명융합공학부",
     "core_subjects": "물리학, 화학, 생명과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "물리학, 화학, 생명과학",
     "note": "제시 과목 관련 일반 선택 과목 및 진로 선택 과목 중 1과목 이상 이수 - 물리학 관련 과목: 물리학, 역학과 에너지, 전자기와 양 - 화학 관련 과목: 화학, 물질과 에너지, 화학반응의 세계 - 생명과학 관련 과목: 생명과학, 세포와 물질대사, 생물의 유전"
   },
   {
@@ -4660,7 +4660,7 @@
     "college": "학부대학",
     "major": "첨단융합학부",
     "core_subjects": "기하, 미적분Ⅱ, 물리학 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "기하, 미적분Ⅱ, 물리학 화학",
     "note": "기하, 미적분Ⅱ 중 1과목 이상 이수, 물리학, 화학 관련 일반 선택 과목 및 진로 선택 과목 중 3과목 이상 이수"
   },
   {
@@ -4671,7 +4671,7 @@
     "college": "인문대학",
     "major": "독어독문학과",
     "core_subjects": "전공 관련 제2외국어/한문 교과(군)",
-    "recommended_subjects": "",
+    "recommended_subjects": "전공 관련 제2외국어/한문 교과(군)",
     "note": "1과목 이상 이수 권장"
   },
   {
@@ -4781,7 +4781,7 @@
     "college": "사범대학",
     "major": "전 모집단위",
     "core_subjects": "학과별 특성에 맞는 교과목 (예-국어교육과: 국어 교과[군] 일반 선택 과목, 진로 선택 과목)",
-    "recommended_subjects": "",
+    "recommended_subjects": "학과별 특성에 맞는 교과목 (예-국어교육과: 국어 교과[군] 일반 선택 과목, 진로 선택 과목)",
     "note": ""
   },
   {
@@ -5573,7 +5573,7 @@
     "college": "",
     "major": "반도체공학과",
     "core_subjects": "국어, 수학, 영어, 과학 전 과목",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 과학 전 과목",
     "note": "-"
   },
   {
@@ -5584,7 +5584,7 @@
     "college": "",
     "major": "초등교육과",
     "core_subjects": "전 과목",
-    "recommended_subjects": "",
+    "recommended_subjects": "전 과목",
     "note": ""
   },
   {
@@ -5595,7 +5595,7 @@
     "college": "공과대학",
     "major": "기계공학과, 산업경영공학과, 건축설비시스템공학과, 신소재공학과, 우주국방첨단융합학과, 창의융합학과, 화학생명공학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "* 관련 교과(군)을 제시하지 않은 모집단위(융합자율대학, 야간학과)는 계열 상관없이 학생의 진로와 적성에 따라 과목 선택하여 이수하도록 권장함."
   },
   {
@@ -5606,7 +5606,7 @@
     "college": "정보기술대학",
     "major": "모바일융합공학과, 반도체시스템공학과, 빅데이터헬스케어융합 학과, 인공지능소프트웨어학과, 전기공학과, 전자공학과, 정보통신공학과, 지능미디어공학과, 컴퓨터공학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -5617,7 +5617,7 @@
     "college": "건설환경 디자인대학",
     "major": "건설환경공학과, 건축공학과, 건축학과(5년제), 도시공학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -5628,7 +5628,7 @@
     "college": "건설환경 디자인대학",
     "major": "산업디자인학과, 시각·영상디자인학과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": ""
   },
   {
@@ -5639,7 +5639,7 @@
     "college": "인문사회대학",
     "major": "공공행정학과, 영어영문학과, 일본어과, 중국어과",
     "core_subjects": "영어, 사회(역사/도덕포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회(역사/도덕포함)",
     "note": ""
   },
   {
@@ -5650,7 +5650,7 @@
     "college": "경상대학",
     "major": "경제학과",
     "core_subjects": "수학, 사회(역사/도덕포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 사회(역사/도덕포함)",
     "note": ""
   },
   {
@@ -5661,7 +5661,7 @@
     "college": "경상대학",
     "major": "융합경영학과",
     "core_subjects": "영어, 사회(역사/도덕포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회(역사/도덕포함)",
     "note": ""
   },
   {
@@ -5672,7 +5672,7 @@
     "college": "경상대학",
     "major": "회계사무학과",
     "core_subjects": "수학, 사회(역사/도덕포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 사회(역사/도덕포함)",
     "note": ""
   },
   {
@@ -5683,7 +5683,7 @@
     "college": "",
     "major": "신학과",
     "core_subjects": "국어, 수학, 영어, 사회, 과학, 한국사",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 사회, 과학, 한국사",
     "note": "*반영교과 : 공통과목, 일반선택, 진로선택, 전문교과"
   },
   {
@@ -7509,7 +7509,7 @@
     "college": "스마트모빌리티 융합대학",
     "major": "기계자동차 공학과, 미래모빌리티 공학과, 도시인프라 공학과, 컴퓨터공학과, IT소프트웨어 학과, 전기전자공학과, AI정보보안학과, 철도운전시스템 학과, 미디어광고 콘텐츠학과, 영상제작학과",
     "core_subjects": "국어, 영어, 수학, 사회(역사/도덕 포함), 과학 교과",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 수학, 사회(역사/도덕 포함), 과학 교과",
     "note": "-"
   },
   {
@@ -7553,7 +7553,7 @@
     "college": "",
     "major": "의예과",
     "core_subjects": "수학(대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ, 기하 중 4과목 이상), 과학(생명과학 및 '세포와 물질대사', '생물의 유전' 포함하여 3과목 이상)",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학(대수, 미적분Ⅰ, 확률과 통계, 미적분Ⅱ, 기하 중 4과목 이상), 과학(생명과학 및 '세포와 물질대사', '생물의 유전' 포함하여 3과목 이상)",
     "note": ""
   },
   {
@@ -7564,7 +7564,7 @@
     "college": "인문대학",
     "major": "국어국문학과, 철학과, 사학과, 고고미술사학과",
     "core_subjects": "국어, 사회(역사/도덕 포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회(역사/도덕 포함)",
     "note": "-"
   },
   {
@@ -7575,7 +7575,7 @@
     "college": "인문대학",
     "major": "중어중문학과, 영어영문학과, 독일언어 문화학과, 프랑스언어 문화학과",
     "core_subjects": "사회, 영어, 제2외국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회, 영어, 제2외국어",
     "note": "-"
   },
   {
@@ -7586,7 +7586,7 @@
     "college": "인문대학",
     "major": "러시아언어 문화학과",
     "core_subjects": "국어, 영어, 제2외국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 제2외국어",
     "note": "-"
   },
   {
@@ -7597,7 +7597,7 @@
     "college": "사범대학",
     "major": "국어교육과, 역사교육과, 지리교육과, 사회교육과, 윤리교육과",
     "core_subjects": "국어, 사회(역사/도덕 포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회(역사/도덕 포함)",
     "note": "-"
   },
   {
@@ -7608,7 +7608,7 @@
     "college": "사범대학",
     "major": "교육학과",
     "core_subjects": "영어, 사회(역사/도덕 포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회(역사/도덕 포함)",
     "note": "-"
   },
   {
@@ -7619,7 +7619,7 @@
     "college": "사범대학",
     "major": "영어교육과",
     "core_subjects": "영어, 국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 국어",
     "note": "-"
   },
   {
@@ -7630,7 +7630,7 @@
     "college": "사범대학",
     "major": "물리교육과, 화학교육과, 생물교육과, 지구과학교육과, 수학교육과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -7641,7 +7641,7 @@
     "college": "생활과학대학",
     "major": "아동복지학과, 소비자학과",
     "core_subjects": "국어, 사회(역사/도덕 포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회(역사/도덕 포함)",
     "note": "-"
   },
   {
@@ -7652,7 +7652,7 @@
     "college": "생활과학대학",
     "major": "식품영양학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -7663,7 +7663,7 @@
     "college": "생활과학대학",
     "major": "의류학과, 주거환경학과",
     "core_subjects": "사회(역사/도덕 포함), 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회(역사/도덕 포함), 과학",
     "note": "-"
   },
   {
@@ -7674,7 +7674,7 @@
     "college": "사회과학대학",
     "major": "사회학과, 행정학과, 정치외교학과",
     "core_subjects": "영어, 사회(역사/도덕 포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회(역사/도덕 포함)",
     "note": "-"
   },
   {
@@ -7685,7 +7685,7 @@
     "college": "사회과학대학",
     "major": "심리학과, 경제학과",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": "-"
   },
   {
@@ -7696,7 +7696,7 @@
     "college": "경영대학",
     "major": "경영학부, 국제경영학과, 경영정보학과",
     "core_subjects": "영어, 사회(역사/도덕 포함)",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회(역사/도덕 포함)",
     "note": "-"
   },
   {
@@ -7707,7 +7707,7 @@
     "college": "농업생명환경 대학",
     "major": "농업경제학과",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": "-"
   },
   {
@@ -7718,7 +7718,7 @@
     "college": "농업생명환경 대학",
     "major": "농업경제학과 제외 모집단위",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -7729,7 +7729,7 @@
     "college": "자연과학대학",
     "major": "자연과학대학",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -7762,7 +7762,7 @@
     "college": "수의과대학",
     "major": "수의과대학",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "-"
   },
   {
@@ -7817,7 +7817,7 @@
     "college": "인문계열",
     "major": "인문사회계열 광역, 외국어대학, 공공인재대학, 보건과학대학",
     "core_subjects": "국어, 수학, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 사회",
     "note": "*일반 선택 과목 이수 후 진로와 적성에 맞게 진로 선택 과목, 융합 선택 과목을 이수할 것."
   },
   {
@@ -7828,7 +7828,7 @@
     "college": "자연계열",
     "major": "자연공학계열 광역, 과학기술대학, 바이오융합대학, 보건과학대학, 의과대학, 치과대학, 약학대학",
     "core_subjects": "국어, 수학, 영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 과학",
     "note": ""
   },
   {
@@ -7839,7 +7839,7 @@
     "college": "공합융합계열",
     "major": "기계공학부, 메카트로닉스 공학부, 디자인공학과, 건축공학과",
     "core_subjects": "국어, 수학, 영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 과학",
     "note": "-"
   },
   {
@@ -7861,7 +7861,7 @@
     "college": "ICT융합계열 전기·전자· 통신공학부",
     "major": "전기공학전공, 전자공학전공, AI정보통신 공학전공",
     "core_subjects": "국어, 수학, 영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 과학",
     "note": "-"
   },
   {
@@ -7883,7 +7883,7 @@
     "college": "사회융합계열 경영학부",
     "major": "융합경영전공, 데이터경영 전공",
     "core_subjects": "국어, 수학, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학, 영어, 사회",
     "note": "-"
   },
   {
@@ -7905,7 +7905,7 @@
     "college": "전 모집단위",
     "major": "초등교육과",
     "core_subjects": "전 과목",
-    "recommended_subjects": "",
+    "recommended_subjects": "전 과목",
     "note": "초등교과교육에 필요한 균형 있는 교과(군) 이수 및 성취"
   },
   {
@@ -8565,7 +8565,7 @@
     "college": "글로벌인문대학",
     "major": "국어국문학부_ 국어국문학전공, 문예창작학과",
     "core_subjects": "국어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회",
     "note": ""
   },
   {
@@ -8576,7 +8576,7 @@
     "college": "글로벌인문대학",
     "major": "영어영문학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": ""
   },
   {
@@ -8587,7 +8587,7 @@
     "college": "글로벌인문대학",
     "major": "역사문화학과",
     "core_subjects": "사회, 한국사",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회, 한국사",
     "note": ""
   },
   {
@@ -8598,7 +8598,7 @@
     "college": "글로벌인문대학",
     "major": "일본어과, 아시아언어문화 학부_중국어문 화학전공",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": ""
   },
   {
@@ -8609,7 +8609,7 @@
     "college": "글로벌인문대학",
     "major": "글로벌비즈니스 커뮤니케이션 학과, K-컬쳐공연· 기획학과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": ""
   },
   {
@@ -8620,7 +8620,7 @@
     "college": "자연과학· 공공보건 안전대학",
     "major": "반도체화학과, 생명과학과",
     "core_subjects": "과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학",
     "note": ""
   },
   {
@@ -8631,7 +8631,7 @@
     "college": "자연과학· 공공보건 안전대학",
     "major": "의생명과학부, 식품영양학과",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": ""
   },
   {
@@ -8642,7 +8642,7 @@
     "college": "자연과학· 공공보건 안전대학",
     "major": "경찰행정학과",
     "core_subjects": "영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회",
     "note": ""
   },
   {
@@ -8653,7 +8653,7 @@
     "college": "자연과학· 공공보건 안전대학",
     "major": "상담심리학과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": ""
   },
   {
@@ -8675,7 +8675,7 @@
     "college": "자연과학· 공공보건 안전대학",
     "major": "작업치료학과",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": ""
   },
   {
@@ -8686,7 +8686,7 @@
     "college": "자연과학· 공공보건 안전대학",
     "major": "소방재난관리 학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -8697,7 +8697,7 @@
     "college": "법사회대학",
     "major": "법학과, 공공인재법무 학과, 미디어커뮤니 케이션학과",
     "core_subjects": "국어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회",
     "note": ""
   },
   {
@@ -8708,7 +8708,7 @@
     "college": "법사회대학",
     "major": "행정복지학부",
     "core_subjects": "영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회",
     "note": ""
   },
   {
@@ -8719,7 +8719,7 @@
     "college": "법사회대학",
     "major": "정치외교학과",
     "core_subjects": "사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회",
     "note": ""
   },
   {
@@ -8730,7 +8730,7 @@
     "college": "경상대학",
     "major": "경영학부",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": ""
   },
   {
@@ -8741,7 +8741,7 @@
     "college": "경상대학",
     "major": "경제학과",
     "core_subjects": "수학, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 사회",
     "note": ""
   },
   {
@@ -8752,7 +8752,7 @@
     "college": "경상대학",
     "major": "무역학과",
     "core_subjects": "영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회",
     "note": ""
   },
   {
@@ -8763,7 +8763,7 @@
     "college": "공과대학",
     "major": "건축공학과",
     "core_subjects": "수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학",
     "note": ""
   },
   {
@@ -8774,7 +8774,7 @@
     "college": "공과대학",
     "major": "건축학과 (5년제)",
     "core_subjects": "수학, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 사회",
     "note": ""
   },
   {
@@ -8785,7 +8785,7 @@
     "college": "공과대학",
     "major": "기계공학과, 항공우주공학과, 선박해양공학과, 생명화학공학과, 신소재공학과, 전기공학과, 환경공학과, 전자공학과, 토목공학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
@@ -8796,7 +8796,7 @@
     "college": "IT융합대학",
     "major": "컴퓨터공학전공, 정보통신공학 전공, 정보보안전공, 모빌리티SW 전공",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -8807,7 +8807,7 @@
     "college": "IT융합대학",
     "major": "인공지능공학 전공",
     "core_subjects": "영어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 수학",
     "note": ""
   },
   {
@@ -8818,7 +8818,7 @@
     "college": "사범대학",
     "major": "국어교육과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": ""
   },
   {
@@ -8829,7 +8829,7 @@
     "college": "사범대학",
     "major": "영어교육과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": ""
   },
   {
@@ -8840,7 +8840,7 @@
     "college": "사범대학",
     "major": "특수교육과",
     "core_subjects": "국어, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 수학",
     "note": ""
   },
   {
@@ -8851,7 +8851,7 @@
     "college": "사범대학",
     "major": "수학교육과",
     "core_subjects": "수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학",
     "note": ""
   },
   {
@@ -8862,7 +8862,7 @@
     "college": "사범대학",
     "major": "물리교육과",
     "core_subjects": "과학, 수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학, 수학",
     "note": ""
   },
   {
@@ -8873,7 +8873,7 @@
     "college": "사범대학",
     "major": "화학교육과, 생물교육과",
     "core_subjects": "과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학",
     "note": ""
   },
   {
@@ -8884,7 +8884,7 @@
     "college": "사범대학",
     "major": "지구과학교육과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -8895,7 +8895,7 @@
     "college": "사범대학",
     "major": "교육학과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": ""
   },
   {
@@ -8906,7 +8906,7 @@
     "college": "의과대학",
     "major": "의예과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -8917,7 +8917,7 @@
     "college": "의과대학",
     "major": "간호학과",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": ""
   },
   {
@@ -8928,7 +8928,7 @@
     "college": "치과대학",
     "major": "치의예과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -8939,7 +8939,7 @@
     "college": "약학대학",
     "major": "약학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -8950,7 +8950,7 @@
     "college": "미술대학",
     "major": "현대조형미디어 전공, 가구·도자기 디자인전공, 시각문화 큐레이터전공, 섬유·패션디자인 전공",
     "core_subjects": "국어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회",
     "note": ""
   },
   {
@@ -8961,7 +8961,7 @@
     "college": "미술대학",
     "major": "디자인공학과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": ""
   },
   {
@@ -8972,7 +8972,7 @@
     "college": "체육대학",
     "major": "체육학과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": ""
   },
   {
@@ -8983,7 +8983,7 @@
     "college": "체육대학",
     "major": "스포츠산업학과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": ""
   },
   {
@@ -8994,7 +8994,7 @@
     "college": "체육대학",
     "major": "태권도학과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": ""
   },
   {
@@ -9005,7 +9005,7 @@
     "college": "",
     "major": "자유전공학부",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": ""
   },
   {
@@ -9016,7 +9016,7 @@
     "college": "의약학계열",
     "major": "의예과, 치의예과(자연), 한의예과(자연), 약학과, 한약학과",
     "core_subjects": "대수, 미적분Ⅰ, 미적분Ⅱ, 기하, 확률과 통계, 화학, 생명과학, 물질과 에너지, 화학반응의 세계, 세포와 물질대사, 생물의 유전",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 미적분Ⅱ, 기하, 확률과 통계, 화학, 생명과학, 물질과 에너지, 화학반응의 세계, 세포와 물질대사, 생물의 유전",
     "note": "원광대학교는 의약학계열 모집단위 교과 이수 권장과목에 대해서만 발표함. 다른 모집단위에 대한 교과이수 권장과목에 대해서는 발표한 내용 없음."
   },
   {
@@ -9027,7 +9027,7 @@
     "college": "의약학계열",
     "major": "치의예과(인문), 한의예과(인문)",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 화학, 생명과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 화학, 생명과학",
     "note": "원광대학교는 의약학계열 모집단위 교과 이수 권장과목에 대해서만 발표함. 다른 모집단위에 대한 교과이수 권장과목에 대해서는 발표한 내용 없음."
   },
   {
@@ -9038,7 +9038,7 @@
     "college": "의약학계열",
     "major": "간호학과",
     "core_subjects": "대수, 미적분Ⅰ, 확률과 통계, 화학, 생명과학, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전 중 2과목 이상",
-    "recommended_subjects": "",
+    "recommended_subjects": "대수, 미적분Ⅰ, 확률과 통계, 화학, 생명과학, 물질과 에너지, 화학 반응의 세계, 세포와 물질대사, 생물의 유전 중 2과목 이상",
     "note": "원광대학교는 의약학계열 모집단위 교과 이수 권장과목에 대해서만 발표함. 다른 모집단위에 대한 교과이수 권장과목에 대해서는 발표한 내용 없음."
   },
   {
@@ -9049,7 +9049,7 @@
     "college": "본부",
     "major": "국제이공학부",
     "core_subjects": "수학, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 영어",
     "note": "-"
   },
   {
@@ -9060,7 +9060,7 @@
     "college": "본부",
     "major": "이차전지공학과, 첨단방위산업학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -9071,7 +9071,7 @@
     "college": "간호대학",
     "major": "간호학과",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "-"
   },
   {
@@ -9082,7 +9082,7 @@
     "college": "경상대학",
     "major": "경상계열",
     "core_subjects": "수학, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 영어",
     "note": "-"
   },
   {
@@ -9093,7 +9093,7 @@
     "college": "공과대학",
     "major": "공학계열",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -9104,7 +9104,7 @@
     "college": "농업생명과학 대학",
     "major": "농업생명과학계열",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "-"
   },
   {
@@ -9115,7 +9115,7 @@
     "college": "농업생명과학 대학",
     "major": "스마트팜학과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -9126,7 +9126,7 @@
     "college": "사범대학",
     "major": "교육학과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": "-"
   },
   {
@@ -9137,7 +9137,7 @@
     "college": "사범대학",
     "major": "국어교육과",
     "core_subjects": "국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어",
     "note": "-"
   },
   {
@@ -9148,7 +9148,7 @@
     "college": "사범대학",
     "major": "독어교육과",
     "core_subjects": "영어, 독일어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 독일어",
     "note": "-"
   },
   {
@@ -9159,7 +9159,7 @@
     "college": "사범대학",
     "major": "영어교육과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": "-"
   },
   {
@@ -9170,7 +9170,7 @@
     "college": "사범대학",
     "major": "사회과교육학부",
     "core_subjects": "사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회",
     "note": "-"
   },
   {
@@ -9181,7 +9181,7 @@
     "college": "사범대학",
     "major": "과학교육학부",
     "core_subjects": "과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학",
     "note": "-"
   },
   {
@@ -9192,7 +9192,7 @@
     "college": "사범대학",
     "major": "수학교육과",
     "core_subjects": "수학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학",
     "note": "-"
   },
   {
@@ -9203,7 +9203,7 @@
     "college": "사범대학",
     "major": "체육교육과",
     "core_subjects": "체육",
-    "recommended_subjects": "",
+    "recommended_subjects": "체육",
     "note": "-"
   },
   {
@@ -9214,7 +9214,7 @@
     "college": "사회과학대학",
     "major": "사회과학계열",
     "core_subjects": "영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회",
     "note": "-"
   },
   {
@@ -9225,7 +9225,7 @@
     "college": "생활과학대학",
     "major": "생활과학계열",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "-"
   },
   {
@@ -9236,7 +9236,7 @@
     "college": "수의과대학",
     "major": "수의예과",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "-"
   },
   {
@@ -9247,7 +9247,7 @@
     "college": "약학대학",
     "major": "약학과",
     "core_subjects": "과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "과학",
     "note": "-"
   },
   {
@@ -9258,7 +9258,7 @@
     "college": "의과대학",
     "major": "의예과",
     "core_subjects": "수학, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 영어",
     "note": "-"
   },
   {
@@ -9269,7 +9269,7 @@
     "college": "인문대학",
     "major": "고고문화인류학과",
     "core_subjects": "사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회",
     "note": "-"
   },
   {
@@ -9280,7 +9280,7 @@
     "college": "인문대학",
     "major": "국어국문학과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": "-"
   },
   {
@@ -9291,7 +9291,7 @@
     "college": "인문대학",
     "major": "독일학과",
     "core_subjects": "영어, 독일어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 독일어",
     "note": "-"
   },
   {
@@ -9302,7 +9302,7 @@
     "college": "인문대학",
     "major": "문헌정보학과",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": "-"
   },
   {
@@ -9313,7 +9313,7 @@
     "college": "인문대학",
     "major": "사학과",
     "core_subjects": "사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회",
     "note": "-"
   },
   {
@@ -9324,7 +9324,7 @@
     "college": "인문대학",
     "major": "스페인·중남미학과",
     "core_subjects": "영어, 스페인어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 스페인어",
     "note": "-"
   },
   {
@@ -9335,7 +9335,7 @@
     "college": "인문대학",
     "major": "영어영문학과",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": "-"
   },
   {
@@ -9346,7 +9346,7 @@
     "college": "인문대학",
     "major": "일본학과",
     "core_subjects": "영어, 일본어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 일본어",
     "note": "-"
   },
   {
@@ -9357,7 +9357,7 @@
     "college": "인문대학",
     "major": "중어중문학과",
     "core_subjects": "영어, 중국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 중국어",
     "note": "-"
   },
   {
@@ -9368,7 +9368,7 @@
     "college": "인문대학",
     "major": "철학과",
     "core_subjects": "국어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회",
     "note": "-"
   },
   {
@@ -9379,7 +9379,7 @@
     "college": "인문대학",
     "major": "프랑스·아프리카 학과",
     "core_subjects": "영어, 프랑스어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 프랑스어",
     "note": "-"
   },
   {
@@ -9390,7 +9390,7 @@
     "college": "인문대학",
     "major": "국제학부",
     "core_subjects": "영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 사회",
     "note": "-"
   },
   {
@@ -9401,7 +9401,7 @@
     "college": "자연과학대학",
     "major": "자연과학계열1",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -9423,7 +9423,7 @@
     "college": "자연과학대학",
     "major": "스포츠과학과",
     "core_subjects": "사회, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회, 과학",
     "note": "-"
   },
   {
@@ -9434,7 +9434,7 @@
     "college": "치과대학",
     "major": "치의예과",
     "core_subjects": "수학, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 과학",
     "note": "-"
   },
   {
@@ -9445,7 +9445,7 @@
     "college": "환경생명자원 대학",
     "major": "환경생명자원계열",
     "core_subjects": "영어, 과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 과학",
     "note": "-"
   },
   {
@@ -10380,7 +10380,7 @@
     "college": "공과대학",
     "major": "공학계열",
     "core_subjects": "수학, 물리학, 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 물리학, 화학",
     "note": "*교과군 또는 과목군을 제시하고 있음. - 지리: 세계시민과 지리, 한국지리 탐구, 도시의 미래 탐구 - 역사: 세계사, 동아시아역사기행 - 일반사회: 사회와 문화, 정치, 법과 사회, 경제, 국제관계의 이해 - 윤리: 현대사회와 윤리, 윤리와 사상, 인문학과 윤리 - 사회: 상기 지리, 역사, 일반 사회, 윤리 전 과목"
   },
   {
@@ -10391,7 +10391,7 @@
     "college": "공과대학",
     "major": "건축디자인학과",
     "core_subjects": "국어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 사회",
     "note": "*교과군 또는 과목군을 제시하고 있음. - 지리: 세계시민과 지리, 한국지리 탐구, 도시의 미래 탐구 - 역사: 세계사, 동아시아역사기행 - 일반사회: 사회와 문화, 정치, 법과 사회, 경제, 국제관계의 이해 - 윤리: 현대사회와 윤리, 윤리와 사상, 인문학과 윤리 - 사회: 상기 지리, 역사, 일반 사회, 윤리 전 과목"
   },
   {
@@ -10402,7 +10402,7 @@
     "college": "공과대학",
     "major": "의공학부",
     "core_subjects": "수학, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 영어",
     "note": "*교과군 또는 과목군을 제시하고 있음. - 지리: 세계시민과 지리, 한국지리 탐구, 도시의 미래 탐구 - 역사: 세계사, 동아시아역사기행 - 일반사회: 사회와 문화, 정치, 법과 사회, 경제, 국제관계의 이해 - 윤리: 현대사회와 윤리, 윤리와 사상, 인문학과 윤리 - 사회: 상기 지리, 역사, 일반 사회, 윤리 전 과목"
   },
   {
@@ -10413,7 +10413,7 @@
     "college": "공과대학",
     "major": "석유화학소재공학과",
     "core_subjects": "수학, 화학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 화학",
     "note": "*교과군 또는 과목군을 제시하고 있음. - 지리: 세계시민과 지리, 한국지리 탐구, 도시의 미래 탐구 - 역사: 세계사, 동아시아역사기행 - 일반사회: 사회와 문화, 정치, 법과 사회, 경제, 국제관계의 이해 - 윤리: 현대사회와 윤리, 윤리와 사상, 인문학과 윤리 - 사회: 상기 지리, 역사, 일반 사회, 윤리 전 과목"
   },
   {
@@ -10424,7 +10424,7 @@
     "college": "문화사회과학대학",
     "major": "국제학부 (영어학전공)",
     "core_subjects": "영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어",
     "note": ""
   },
   {
@@ -10435,7 +10435,7 @@
     "college": "문화사회과학대학",
     "major": "국제학부 (일본학전공)",
     "core_subjects": "일본어",
-    "recommended_subjects": "",
+    "recommended_subjects": "일본어",
     "note": ""
   },
   {
@@ -10446,7 +10446,7 @@
     "college": "문화사회과학대학",
     "major": "국제학부 (중국학전공)",
     "core_subjects": "중국어",
-    "recommended_subjects": "",
+    "recommended_subjects": "중국어",
     "note": "- 물리학: 물리학, 역학과 에너지, 전자기와 양자 - 화학: 화학, 물질과 에너지, 화학 반응의 세계 - 생명과학: 생명과학, 세포와 물질대사, 생물의 유전 - 지구과학: 지구과학, 지구시스템과학, 행성우주과학 - 과학: 상기 물리학, 화학, 생명과학, 지구과학 전 과목 *평가활용: 일반 및 진로 선택 과목을 위주로 평가에 활용, 모집단위별 관련교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장함."
   },
   {
@@ -10457,7 +10457,7 @@
     "college": "문화사회과학대학",
     "major": "글로벌비지니스학부",
     "core_subjects": "국어, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어, 사회",
     "note": ""
   },
   {
@@ -10479,7 +10479,7 @@
     "college": "문화사회과학대학",
     "major": "문화콘텐츠학부",
     "core_subjects": "국어, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "국어, 영어",
     "note": ""
   },
   {
@@ -10490,7 +10490,7 @@
     "college": "문화사회과학대학",
     "major": "문화관광경영학과",
     "core_subjects": "사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "사회",
     "note": ""
   },
   {
@@ -10501,7 +10501,7 @@
     "college": "수산해양대학",
     "major": "해양수산광역",
     "core_subjects": "영어, 생명과학, 지구과학(행성우주과학 불요)",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 생명과학, 지구과학(행성우주과학 불요)",
     "note": ""
   },
   {
@@ -10512,7 +10512,7 @@
     "college": "수산해양대학",
     "major": "기관시스템공학과",
     "core_subjects": "수학, 영어",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 영어",
     "note": ""
   },
   {
@@ -10523,7 +10523,7 @@
     "college": "수산해양대학",
     "major": "조선해양공학과",
     "core_subjects": "영어, 물리학",
-    "recommended_subjects": "",
+    "recommended_subjects": "영어, 물리학",
     "note": ""
   },
   {
@@ -10534,7 +10534,7 @@
     "college": "수산해양대학",
     "major": "수산생명의학과",
     "core_subjects": "화학, 생명과학",
-    "recommended_subjects": "",
+    "recommended_subjects": "화학, 생명과학",
     "note": ""
   },
   {
@@ -10545,7 +10545,7 @@
     "college": "수산해양대학",
     "major": "스마트수산자원관리 학과",
     "core_subjects": "수학, 생명과학, 지구과학(행성우주과학 불요)",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 생명과학, 지구과학(행성우주과학 불요)",
     "note": ""
   },
   {
@@ -10556,7 +10556,7 @@
     "college": "",
     "major": "창의융합학부",
     "core_subjects": "수학, 영어, 사회",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 영어, 사회",
     "note": ""
   },
   {
@@ -10567,7 +10567,7 @@
     "college": "조기취업형계약학과",
     "major": "스마트응용설계학과, 스마트ICT융합공학과, 스마트전기제어공학과, 디지털융합정보학과",
     "core_subjects": "수학, 물리학",
-    "recommended_subjects": "",
+    "recommended_subjects": "수학, 물리학",
     "note": ""
   }
 ]
