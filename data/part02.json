@@ -621,7 +621,7 @@
     "city": "서울",
     "university": "고려대",
     "college": "정보대학",
-    "major": "컴퓨터학과, 데이터과학과, 인공지능학과",
+    "major": "컴퓨터학과",
     "core_subjects": "-",
     "recommended_subjects": "미적분Ⅱ, 기하",
     "note": "-"
@@ -632,7 +632,7 @@
     "city": "서울",
     "university": "고려대",
     "college": "정보대학",
-    "major": "",
+    "major": "데이터과학과",
     "core_subjects": "-",
     "recommended_subjects": "미적분Ⅱ, 기하",
     "note": "-"
@@ -643,7 +643,7 @@
     "city": "서울",
     "university": "고려대",
     "college": "정보대학",
-    "major": "",
+    "major": "인공지능학과",
     "core_subjects": "-",
     "recommended_subjects": "미적분Ⅱ, 기하",
     "note": "-"
@@ -687,7 +687,7 @@
     "city": "서울",
     "university": "고려대",
     "college": "스마트보안학부",
-    "major": "사이버국방학과, 스마트보안학부",
+    "major": "사이버국방학과",
     "core_subjects": "-",
     "recommended_subjects": "미적분Ⅱ, 기하",
     "note": "-"
@@ -698,7 +698,7 @@
     "city": "서울",
     "university": "고려대",
     "college": "스마트보안학부",
-    "major": "",
+    "major": "스마트보안학부",
     "core_subjects": "-",
     "recommended_subjects": "미적분Ⅱ, 기하",
     "note": "-"
