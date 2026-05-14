@@ -255,10 +255,16 @@ function renderPart02Univ(univName) {
     let i = 0;
     while (i < rows.length) {
       const val = ((rows[i][key] ?? '') + '').trim();
+      const majorVal = ((rows[i]['major'] ?? '') + '').trim();
       let j = i + 1;
       const mergeable = val && val !== '-';
       if (mergeable) {
-        while (j < rows.length && (((rows[j][key] ?? '') + '').trim()) === val) j++;
+        while (
+          j < rows.length &&
+          (((rows[j][key] ?? '') + '').trim()) === val &&
+          // major 칸 자체를 묶는 경우가 아니면, major가 바뀌는 지점에서 멈춤
+          (key === 'major' || (((rows[j]['major'] ?? '') + '').trim()) === majorVal)
+        ) j++;
       }
       spans[i] = { value: rows[i][key] || '', rowspan: j - i };
       i = j;
