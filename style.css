@@ -352,10 +352,9 @@ table th, table td {
 table th:last-child, table td:last-child {
   border-right: none;
 }
-/* rowspan으로 묶인 셀: 텍스트는 첫 행에 + 옅은 배경으로 한 덩어리임을 표시 */
+/* rowspan으로 묶인 셀: 텍스트는 첫 행에, 배경은 다른 셀과 동일 */
 table td.merged {
   vertical-align: top;
-  background: rgba(124, 92, 255, 0.06);
   /* 큰 rowspan 셀이 옆 셀의 우측 border와 시각적으로 융합되어 좌측 경계가 사라지는 문제 방지 */
   border-left: 1px solid var(--border);
 }
