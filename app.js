@@ -277,24 +277,25 @@ function renderPart02Univ(univName) {
     const rows = g.rows.map((r, idx) => {
       let html = `<tr><td><strong>${escapeHtml(r.major)}</strong></td>`;
       const mergedStyle = ' style="vertical-align:top"';
+      const makeLabel = (n) => n > 1 ? `<span class="merged-label">↳ 아래 ${n}개 학과 공통</span>` : '';
       if (coreSpans[idx]) {
         const s = coreSpans[idx];
         const isM = s.rowspan > 1;
         const attr = isM ? ` rowspan="${s.rowspan}" class="merged"${mergedStyle}` : '';
-        html += `<td${attr}>${formatSubjects(s.value, 'core')}</td>`;
+        html += `<td${attr}>${formatSubjects(s.value, 'core')}${makeLabel(s.rowspan)}</td>`;
       }
       if (recSpans[idx]) {
         const s = recSpans[idx];
         const isM = s.rowspan > 1;
         const attr = isM ? ` rowspan="${s.rowspan}" class="merged"${mergedStyle}` : '';
-        html += `<td${attr}>${formatSubjects(s.value, 'rec')}</td>`;
+        html += `<td${attr}>${formatSubjects(s.value, 'rec')}${makeLabel(s.rowspan)}</td>`;
       }
       if (noteSpans[idx]) {
         const s = noteSpans[idx];
         const isM = s.rowspan > 1;
         const cls = isM ? 'merged note-cell' : 'note-cell';
         const attr = isM ? ` rowspan="${s.rowspan}" class="${cls}"${mergedStyle}` : ` class="${cls}"`;
-        html += `<td${attr}>${escapeHtml(s.value || '-')}</td>`;
+        html += `<td${attr}>${escapeHtml(s.value || '-')}${makeLabel(s.rowspan)}</td>`;
       }
       html += `</tr>`;
       return html;

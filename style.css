@@ -352,10 +352,19 @@ table th, table td {
 table th:last-child, table td:last-child {
   border-right: none;
 }
-/* rowspan으로 묶인 셀: 텍스트가 첫 행에 보이도록 위쪽 정렬 + 약한 강조 */
+/* rowspan으로 묶인 셀: 텍스트는 첫 행에 + 좌측 굵은 보라 세로선으로 한 덩어리임을 강조 */
 table td.merged {
   vertical-align: top;
-  background: rgba(124, 92, 255, 0.025);
+  background: rgba(124, 92, 255, 0.06);
+  box-shadow: inset 3px 0 0 rgba(124, 92, 255, 0.4);
+}
+.merged-label {
+  display: block;
+  font-size: 11px;
+  color: rgba(124, 92, 255, 0.7);
+  font-weight: 500;
+  margin-top: 6px;
+  letter-spacing: -0.01em;
 }
 /* 비고 셀 공통 */
 table td.note-cell {
