@@ -1834,7 +1834,7 @@
     "major": "경영학과",
     "core_subjects": "제2외국어/한문",
     "recommended_subjects": "제2외국어/한문",
-    "note": ""
+    "note": "해당 교과(군)의 일반 선택, 진로 선택, 융합 선택 과목 중 1과목 이상"
   },
   {
     "page": 49,
@@ -1845,7 +1845,7 @@
     "major": "농경제사회학부",
     "core_subjects": "제2외국어/한문",
     "recommended_subjects": "제2외국어/한문",
-    "note": ""
+    "note": "해당 교과(군)의 일반 선택, 진로 선택, 융합 선택 과목 중 1과목 이상"
   },
   {
     "page": 49,
@@ -1856,7 +1856,7 @@
     "major": "교육학과, 국어교육과, 영어교육과, 독어교육과, 불어교육과, 사회교육과, 역사교육과, 지리교육과, 윤리교육과",
     "core_subjects": "제2외국어/한문",
     "recommended_subjects": "제2외국어/한문",
-    "note": ""
+    "note": "해당 교과(군)의 일반 선택, 진로 선택, 융합 선택 과목 중 1과목 이상"
   },
   {
     "page": 49,
@@ -1867,7 +1867,7 @@
     "major": "소비자아동학부 소비자학전공, 소비자아동학부 아동가족학전공, 식품영양학과, 의류학과",
     "core_subjects": "제2외국어/한문",
     "recommended_subjects": "제2외국어/한문",
-    "note": ""
+    "note": "해당 교과(군)의 일반 선택, 진로 선택, 융합 선택 과목 중 1과목 이상"
   },
   {
     "page": 49,
@@ -2097,8 +2097,8 @@
     "college": "사범대학",
     "major": "물리교육과",
     "core_subjects": "물리학",
-    "recommended_subjects": "물리학",
-    "note": ""
+    "recommended_subjects": "기하, 미적분Ⅱ, 과학",
+    "note": "과학 교과의 진로 선택 과목 중 3과목 이상"
   },
   {
     "page": 51,
@@ -2108,8 +2108,8 @@
     "college": "사범대학",
     "major": "화학교육과",
     "core_subjects": "화학",
-    "recommended_subjects": "화학",
-    "note": ""
+    "recommended_subjects": "기하, 미적분Ⅱ, 과학",
+    "note": "과학 교과의 진로 선택 과목 중 3과목 이상"
   },
   {
     "page": 51,
@@ -2119,8 +2119,8 @@
     "college": "사범대학",
     "major": "생물교육과",
     "core_subjects": "생명과학",
-    "recommended_subjects": "생명과학",
-    "note": ""
+    "recommended_subjects": "기하, 미적분Ⅱ, 과학",
+    "note": "과학 교과의 진로 선택 과목 중 3과목 이상"
   },
   {
     "page": 51,
@@ -2130,8 +2130,8 @@
     "college": "사범대학",
     "major": "지구과학교육과",
     "core_subjects": "지구과학",
-    "recommended_subjects": "지구과학",
-    "note": ""
+    "recommended_subjects": "기하, 미적분Ⅱ, 과학",
+    "note": "과학 교과의 진로 선택 과목 중 3과목 이상"
   },
   {
     "page": 51,
@@ -2152,8 +2152,8 @@
     "college": "생활과학대학",
     "major": "의류학과",
     "core_subjects": "-",
-    "recommended_subjects": "-",
-    "note": ""
+    "recommended_subjects": "기하, 미적분Ⅱ, 과학",
+    "note": "과학 교과의 진로 선택 과목 중 3과목 이상"
   },
   {
     "page": 51,
