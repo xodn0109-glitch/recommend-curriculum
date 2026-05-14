@@ -363,7 +363,7 @@ function renderPart02Univ(univName) {
 
 function formatSubjects(text, type) {
   if (!text || text === '-' || !text.trim()) return '<span class="empty-cell">-</span>';
-  // "일반 선택:" / "진로 선택:" 등 소구분이 들어있는 경우 줄바꿈·라벨 처리
+  // "일반 선택:" / "진로 선택:" 등 소구분이 들어있는 경우 라벨 처리
   const hasSections = /일반 선택:|진로 선택:/.test(text);
   if (hasSections) {
     const lines = text.split(/\n+/).map(s => s.trim()).filter(Boolean);
@@ -374,6 +374,11 @@ function formatSubjects(text, type) {
       }
       return `<div>${escapeHtml(line)}</div>`;
     }).join('');
+  }
+  // 줄바꿈이 들어 있으면 각 줄을 별도 행으로 표시
+  if (text.includes('\n')) {
+    return text.split(/\n+/).map(s => s.trim()).filter(Boolean)
+      .map(line => `<div>${escapeHtml(line)}</div>`).join('');
   }
   return escapeHtml(text);
 }
