@@ -366,6 +366,8 @@ table td:has(+ td.merged) {
 table td.note-cell {
   font-size: 13px;
   color: var(--text-muted);
+  white-space: pre-line;
+  line-height: 1.6;
 }
 /* 단과대 헤더 행 */
 table tr.college-row td {
