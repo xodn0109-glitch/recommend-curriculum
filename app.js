@@ -355,7 +355,18 @@ function renderPart02Univ(univName) {
 
 function formatSubjects(text, type) {
   if (!text || text === '-' || !text.trim()) return '<span class="empty-cell">-</span>';
-  // 짧은 키워드 단위로 칩 처리할 수도 있지만 일단 텍스트 그대로
+  // "일반 선택:" / "진로 선택:" 등 소구분이 들어있는 경우 줄바꿈·라벨 처리
+  const hasSections = /일반 선택:|진로 선택:/.test(text);
+  if (hasSections) {
+    const lines = text.split(/\n+/).map(s => s.trim()).filter(Boolean);
+    return lines.map(line => {
+      const m = line.match(/^(일반 선택|진로 선택)\s*:\s*(.+)$/);
+      if (m) {
+        return `<div class="subj-section"><span class="subj-label">${m[1]}</span> ${escapeHtml(m[2])}</div>`;
+      }
+      return `<div>${escapeHtml(line)}</div>`;
+    }).join('');
+  }
   return escapeHtml(text);
 }
 

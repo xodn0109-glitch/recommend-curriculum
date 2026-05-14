@@ -389,6 +389,25 @@ table thead tr:nth-child(2) th { top: 41px; }
 table tbody tr:hover { background: rgba(124, 92, 255, 0.03); }
 table .empty-cell { color: rgba(0,0,0,0.2); text-align: center; }
 table .mark { color: var(--primary); font-weight: 600; }
+table .subj-section {
+  padding: 2px 0;
+}
+table .subj-section + .subj-section {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px dashed var(--border);
+}
+table .subj-label {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 1px 8px;
+  background: rgba(124, 92, 255, 0.08);
+  color: var(--primary);
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  vertical-align: 1px;
+}
 table .core-pill {
   display: inline-block;
   background: linear-gradient(135deg, #ff6dac, #ff9a9e);
