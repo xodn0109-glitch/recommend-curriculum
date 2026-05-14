@@ -294,11 +294,7 @@ function renderPart02Univ(univName) {
     const rows = g.rows.map((r, idx) => {
       let html = '<tr>';
       const mergedStyle = ' style="vertical-align:top"';
-      // 독립 모집단위처럼 단과대학명과 학과명이 같으면 학과 칸을 따로 두지 않고 다음 칸을 확장
-      const collegeText = (g.college || '').trim();
-      const majorText = (r.major || '').trim();
-      const skipMajor = collegeText && majorText && collegeText === majorText;
-      if (!skipMajor && majorSpans[idx]) {
+      if (majorSpans[idx]) {
         const s = majorSpans[idx];
         const isM = s.rowspan > 1;
         const rowAttr = isM ? ` rowspan="${s.rowspan}"` : '';
@@ -309,30 +305,22 @@ function renderPart02Univ(univName) {
       const rs = recSpans[idx];
       // 핵심과 권장이 동일한 값·동일한 행 범위면 colspan으로 한 셀처럼 표시
       const isColspan = cs && rs && cs.value && cs.value === rs.value && cs.rowspan === rs.rowspan;
-      // 학과 칸이 빠진 경우 다음 셀에 colspan을 한 칸 더 부여
-      const extraCol = skipMajor ? 1 : 0;
       if (isColspan) {
         const isM = cs.rowspan > 1;
         const rowAttr = isM ? ` rowspan="${cs.rowspan}"` : '';
         const cls = isM ? ' class="merged"' : '';
         const style = isM ? mergedStyle : '';
-        const totalCols = 2 + extraCol;
-        html += `<td colspan="${totalCols}"${rowAttr}${cls}${style}>${formatSubjects(cs.value, 'core')}</td>`;
+        html += `<td colspan="2"${rowAttr}${cls}${style}>${formatSubjects(cs.value, 'core')}</td>`;
       } else {
-        let appliedExtra = false;
         if (cs) {
           const isM = cs.rowspan > 1;
-          const colAttr = extraCol > 0 && !appliedExtra ? ` colspan="${1 + extraCol}"` : '';
-          if (colAttr) appliedExtra = true;
           const attr = isM ? ` rowspan="${cs.rowspan}" class="merged"${mergedStyle}` : '';
-          html += `<td${colAttr}${attr}>${formatSubjects(cs.value, 'core')}</td>`;
+          html += `<td${attr}>${formatSubjects(cs.value, 'core')}</td>`;
         }
         if (rs) {
           const isM = rs.rowspan > 1;
-          const colAttr = extraCol > 0 && !appliedExtra ? ` colspan="${1 + extraCol}"` : '';
-          if (colAttr) appliedExtra = true;
           const attr = isM ? ` rowspan="${rs.rowspan}" class="merged"${mergedStyle}` : '';
-          html += `<td${colAttr}${attr}>${formatSubjects(rs.value, 'rec')}</td>`;
+          html += `<td${attr}>${formatSubjects(rs.value, 'rec')}</td>`;
         }
       }
       if (noteSpans[idx]) {
