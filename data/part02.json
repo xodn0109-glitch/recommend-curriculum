@@ -8563,10 +8563,10 @@
     "city": "광주",
     "university": "조선대",
     "college": "글로벌인문대학",
-    "major": "국어국문학부_ 국어국문학전공, 문예창작학과",
+    "major": "국어국문학부_국어국문학전공, 문예창작학과",
     "core_subjects": "국어, 사회",
     "recommended_subjects": "국어, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 111,
@@ -8577,7 +8577,7 @@
     "major": "영어영문학과",
     "core_subjects": "영어",
     "recommended_subjects": "영어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 111,
@@ -8588,7 +8588,7 @@
     "major": "역사문화학과",
     "core_subjects": "사회, 한국사",
     "recommended_subjects": "사회, 한국사",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 111,
@@ -8596,10 +8596,10 @@
     "city": "광주",
     "university": "조선대",
     "college": "글로벌인문대학",
-    "major": "일본어과, 아시아언어문화 학부_중국어문 화학전공",
+    "major": "일본어과, 아시아언어문화학부_중국어문화학전공",
     "core_subjects": "국어, 영어, 사회",
     "recommended_subjects": "국어, 영어, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 111,
@@ -8607,87 +8607,87 @@
     "city": "광주",
     "university": "조선대",
     "college": "글로벌인문대학",
-    "major": "글로벌비즈니스 커뮤니케이션 학과, K-컬쳐공연· 기획학과",
+    "major": "글로벌비즈니스커뮤니케이션학과, K-컬쳐공연·기획학과",
     "core_subjects": "국어, 영어",
     "recommended_subjects": "국어, 영어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 111,
     "region": "호남",
     "city": "광주",
     "university": "조선대",
-    "college": "자연과학· 공공보건 안전대학",
+    "college": "자연과학·공공보건안전대학",
     "major": "반도체화학과, 생명과학과",
     "core_subjects": "과학",
     "recommended_subjects": "과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 111,
     "region": "호남",
     "city": "광주",
     "university": "조선대",
-    "college": "자연과학· 공공보건 안전대학",
+    "college": "자연과학·공공보건안전대학",
     "major": "의생명과학부, 식품영양학과",
     "core_subjects": "영어, 과학",
     "recommended_subjects": "영어, 과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 111,
     "region": "호남",
     "city": "광주",
     "university": "조선대",
-    "college": "자연과학· 공공보건 안전대학",
+    "college": "자연과학·공공보건안전대학",
     "major": "경찰행정학과",
     "core_subjects": "영어, 사회",
     "recommended_subjects": "영어, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
     "region": "호남",
     "city": "광주",
     "university": "조선대",
-    "college": "자연과학· 공공보건 안전대학",
+    "college": "자연과학·공공보건안전대학",
     "major": "상담심리학과",
     "core_subjects": "국어, 영어",
     "recommended_subjects": "국어, 영어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
     "region": "호남",
     "city": "광주",
     "university": "조선대",
-    "college": "자연과학· 공공보건 안전대학",
+    "college": "자연과학·공공보건안전대학",
     "major": "언어치료학과",
-    "core_subjects": "",
-    "recommended_subjects": "",
-    "note": ""
+    "core_subjects": "국어, 영어",
+    "recommended_subjects": "국어, 영어",
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
     "region": "호남",
     "city": "광주",
     "university": "조선대",
-    "college": "자연과학· 공공보건 안전대학",
+    "college": "자연과학·공공보건안전대학",
     "major": "작업치료학과",
     "core_subjects": "영어, 수학",
     "recommended_subjects": "영어, 수학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
     "region": "호남",
     "city": "광주",
     "university": "조선대",
-    "college": "자연과학· 공공보건 안전대학",
-    "major": "소방재난관리 학과",
+    "college": "자연과학·공공보건안전대학",
+    "major": "소방재난관리학과",
     "core_subjects": "수학, 과학",
     "recommended_subjects": "수학, 과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
@@ -8695,10 +8695,10 @@
     "city": "광주",
     "university": "조선대",
     "college": "법사회대학",
-    "major": "법학과, 공공인재법무 학과, 미디어커뮤니 케이션학과",
+    "major": "법학과, 공공인재법무학과, 미디어커뮤니케이션학과",
     "core_subjects": "국어, 사회",
     "recommended_subjects": "국어, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
@@ -8709,7 +8709,7 @@
     "major": "행정복지학부",
     "core_subjects": "영어, 사회",
     "recommended_subjects": "영어, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
@@ -8720,7 +8720,7 @@
     "major": "정치외교학과",
     "core_subjects": "사회",
     "recommended_subjects": "사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
@@ -8731,7 +8731,7 @@
     "major": "경영학부",
     "core_subjects": "영어, 수학",
     "recommended_subjects": "영어, 수학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
@@ -8742,7 +8742,7 @@
     "major": "경제학과",
     "core_subjects": "수학, 사회",
     "recommended_subjects": "수학, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
@@ -8753,7 +8753,7 @@
     "major": "무역학과",
     "core_subjects": "영어, 사회",
     "recommended_subjects": "영어, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
@@ -8764,7 +8764,7 @@
     "major": "건축공학과",
     "core_subjects": "수학",
     "recommended_subjects": "수학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 112,
@@ -8772,10 +8772,10 @@
     "city": "광주",
     "university": "조선대",
     "college": "공과대학",
-    "major": "건축학과 (5년제)",
+    "major": "건축학과(5년제)",
     "core_subjects": "수학, 사회",
     "recommended_subjects": "수학, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 113,
@@ -8794,10 +8794,10 @@
     "city": "광주",
     "university": "조선대",
     "college": "IT융합대학",
-    "major": "컴퓨터공학전공, 정보통신공학 전공, 정보보안전공, 모빌리티SW 전공",
+    "major": "컴퓨터공학전공, 정보통신공학전공, 정보보안전공, 모빌리티SW전공",
     "core_subjects": "수학, 과학",
     "recommended_subjects": "수학, 과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 113,
@@ -8805,10 +8805,10 @@
     "city": "광주",
     "university": "조선대",
     "college": "IT융합대학",
-    "major": "인공지능공학 전공",
+    "major": "인공지능공학전공",
     "core_subjects": "영어, 수학",
     "recommended_subjects": "영어, 수학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 113,
@@ -8819,7 +8819,7 @@
     "major": "국어교육과",
     "core_subjects": "국어",
     "recommended_subjects": "국어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 113,
@@ -8830,7 +8830,7 @@
     "major": "영어교육과",
     "core_subjects": "영어",
     "recommended_subjects": "영어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 113,
@@ -8841,7 +8841,7 @@
     "major": "특수교육과",
     "core_subjects": "국어, 수학",
     "recommended_subjects": "국어, 수학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 113,
@@ -8852,7 +8852,7 @@
     "major": "수학교육과",
     "core_subjects": "수학",
     "recommended_subjects": "수학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 113,
@@ -8863,7 +8863,7 @@
     "major": "물리교육과",
     "core_subjects": "과학, 수학",
     "recommended_subjects": "과학, 수학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 113,
@@ -8874,7 +8874,7 @@
     "major": "화학교육과, 생물교육과",
     "core_subjects": "과학",
     "recommended_subjects": "과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8885,7 +8885,7 @@
     "major": "지구과학교육과",
     "core_subjects": "수학, 과학",
     "recommended_subjects": "수학, 과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8896,7 +8896,7 @@
     "major": "교육학과",
     "core_subjects": "국어, 영어",
     "recommended_subjects": "국어, 영어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8907,7 +8907,7 @@
     "major": "의예과",
     "core_subjects": "수학, 과학",
     "recommended_subjects": "수학, 과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8918,7 +8918,7 @@
     "major": "간호학과",
     "core_subjects": "영어, 과학",
     "recommended_subjects": "영어, 과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8929,7 +8929,7 @@
     "major": "치의예과",
     "core_subjects": "수학, 과학",
     "recommended_subjects": "수학, 과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8940,7 +8940,7 @@
     "major": "약학과",
     "core_subjects": "수학, 과학",
     "recommended_subjects": "수학, 과학",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8948,10 +8948,10 @@
     "city": "광주",
     "university": "조선대",
     "college": "미술대학",
-    "major": "현대조형미디어 전공, 가구·도자기 디자인전공, 시각문화 큐레이터전공, 섬유·패션디자인 전공",
+    "major": "현대조형미디어전공, 가구·도자기디자인전공, 시각문화큐레이터전공, 섬유·패션디자인전공",
     "core_subjects": "국어, 사회",
     "recommended_subjects": "국어, 사회",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8962,7 +8962,7 @@
     "major": "디자인공학과",
     "core_subjects": "국어",
     "recommended_subjects": "국어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8973,7 +8973,7 @@
     "major": "체육학과",
     "core_subjects": "국어",
     "recommended_subjects": "국어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8984,7 +8984,7 @@
     "major": "스포츠산업학과",
     "core_subjects": "국어, 영어",
     "recommended_subjects": "국어, 영어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
@@ -8995,18 +8995,18 @@
     "major": "태권도학과",
     "core_subjects": "국어",
     "recommended_subjects": "국어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 114,
     "region": "호남",
     "city": "광주",
     "university": "조선대",
-    "college": "",
-    "major": "자유전공학부",
+    "college": "자유전공학부",
+    "major": "",
     "core_subjects": "영어",
     "recommended_subjects": "영어",
-    "note": ""
+    "note": "과목 선택 시 모집단위별 관련 교과(군)이나 과목군의 일반 선택 과목을 먼저 이수할 것을 권장"
   },
   {
     "page": 115,
