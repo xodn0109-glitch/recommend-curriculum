@@ -7199,7 +7199,7 @@
     "city": "강원",
     "university": "강원대 (삼척·도계)",
     "college": "공학대학",
-    "major": "그린에너지 공학과",
+    "major": "그린에너지공학과",
     "core_subjects": "미적분, 물리학, 화학",
     "recommended_subjects": "영어, 수학, 과학",
     "note": "-"
@@ -7221,8 +7221,8 @@
     "city": "강원",
     "university": "강원대 (삼척·도계)",
     "college": "공학대학",
-    "major": "도시건축학과 (5년제)",
-    "core_subjects": "화법과 언어, 독서와 작문, 사회와 문화, 물리학, 기술․가정, 인간과 철학, 생태와 환경",
+    "major": "도시건축학과(5년제)",
+    "core_subjects": "화법과 언어, 독서와 작문, 사회와 문화, 물리학, 기술·가정, 인간과 철학, 생태와 환경",
     "recommended_subjects": "국어, 사회, 과학, 기술·가정/교양",
     "note": "-"
   },
@@ -7232,7 +7232,7 @@
     "city": "강원",
     "university": "강원대 (삼척·도계)",
     "college": "공학대학",
-    "major": "미래토목 건설공학과",
+    "major": "미래토목건설공학과",
     "core_subjects": "미적분, 물리학",
     "recommended_subjects": "수학, 과학",
     "note": "-"
@@ -7288,7 +7288,7 @@
     "university": "강원대 (삼척·도계)",
     "college": "인문사회대학",
     "major": "공공행정학과",
-    "core_subjects": "사회와 문화, 법과 사회 정치, 경제",
+    "core_subjects": "사회와 문화, 법과 사회, 정치, 경제",
     "recommended_subjects": "국어, 영어, 사회, 교양",
     "note": "-"
   },
@@ -7352,7 +7352,7 @@
     "region": "강원",
     "city": "강원",
     "university": "강원대 (삼척·도계)",
-    "college": "디자인 스포츠대학",
+    "college": "디자인스포츠대학",
     "major": "멀티디자인학과",
     "core_subjects": "화법과 언어, 독서와 작문, 문학, 영어 발표와 토론, 미술, 미술 창작, 미술 감상과 비평",
     "recommended_subjects": "국어, 영어, 예술",
@@ -7363,8 +7363,8 @@
     "region": "강원",
     "city": "강원",
     "university": "강원대 (삼척·도계)",
-    "college": "디자인 스포츠대학",
-    "major": "생활조형 디자인학과",
+    "college": "디자인스포츠대학",
+    "major": "생활조형디자인학과",
     "core_subjects": "영어 독해와 작문, 미술, 미술 창작, 미술 감상과 비평",
     "recommended_subjects": "영어, 예술",
     "note": "-"
@@ -7374,7 +7374,7 @@
     "region": "강원",
     "city": "강원",
     "university": "강원대 (삼척·도계)",
-    "college": "디자인 스포츠대학",
+    "college": "디자인스포츠대학",
     "major": "휴먼스포츠학과",
     "core_subjects": "체육1, 2, 운동과 건강",
     "recommended_subjects": "국어, 영어, 체육",
@@ -7408,7 +7408,7 @@
     "city": "강원",
     "university": "강원대 (삼척·도계)",
     "college": "보건과학대학",
-    "major": "바이오기능성 소재학과",
+    "major": "바이오기능성소재학과",
     "core_subjects": "생명과학, 화학",
     "recommended_subjects": "과학",
     "note": "-"
@@ -7432,7 +7432,7 @@
     "college": "보건과학대학",
     "major": "식품영양학과",
     "core_subjects": "영어 발표와 토론, 화학, 생활과학 탐구",
-    "recommended_subjects": "영어, 과학, 기술․가정",
+    "recommended_subjects": "영어, 과학, 기술·가정",
     "note": "-"
   },
   {
@@ -7464,7 +7464,7 @@
     "university": "강원대 (삼척·도계)",
     "college": "보건과학대학",
     "major": "작업치료학과",
-    "core_subjects": "영어 독해와 작문, 생명과학, 물리학 화학",
+    "core_subjects": "영어 독해와 작문, 생명과학, 물리학, 화학",
     "recommended_subjects": "영어, 과학",
     "note": "-"
   },
