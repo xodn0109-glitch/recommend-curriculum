@@ -7573,7 +7573,7 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "인문대학",
-    "major": "중어중문학과, 영어영문학과, 독일언어 문화학과, 프랑스언어 문화학과",
+    "major": "중어중문학과, 영어영문학과, 독일언어문화학과, 프랑스언어문화학과",
     "core_subjects": "사회, 영어, 제2외국어",
     "recommended_subjects": "사회, 영어, 제2외국어",
     "note": "-"
@@ -7584,7 +7584,7 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "인문대학",
-    "major": "러시아언어 문화학과",
+    "major": "러시아언어문화학과",
     "core_subjects": "국어, 영어, 제2외국어",
     "recommended_subjects": "국어, 영어, 제2외국어",
     "note": "-"
@@ -7704,7 +7704,7 @@
     "region": "충청",
     "city": "충북",
     "university": "충북대학교",
-    "college": "농업생명환경 대학",
+    "college": "농업생명환경대학",
     "major": "농업경제학과",
     "core_subjects": "영어, 수학",
     "recommended_subjects": "영어, 수학",
@@ -7715,7 +7715,7 @@
     "region": "충청",
     "city": "충북",
     "university": "충북대학교",
-    "college": "농업생명환경 대학",
+    "college": "농업생명환경대학",
     "major": "농업경제학과 제외 모집단위",
     "core_subjects": "수학, 과학",
     "recommended_subjects": "수학, 과학",
@@ -7727,7 +7727,7 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "자연과학대학",
-    "major": "자연과학대학",
+    "major": "",
     "core_subjects": "수학, 과학",
     "recommended_subjects": "수학, 과학",
     "note": "-"
@@ -7738,9 +7738,9 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "공과대학",
-    "major": "공과대학",
-    "core_subjects": "",
-    "recommended_subjects": "",
+    "major": "",
+    "core_subjects": "수학, 과학",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -7749,9 +7749,9 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "전자정보대학",
-    "major": "전자정보대학",
-    "core_subjects": "",
-    "recommended_subjects": "",
+    "major": "",
+    "core_subjects": "수학, 과학",
+    "recommended_subjects": "수학, 과학",
     "note": ""
   },
   {
@@ -7760,7 +7760,7 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "수의과대학",
-    "major": "수의과대학",
+    "major": "",
     "core_subjects": "영어, 과학",
     "recommended_subjects": "영어, 과학",
     "note": "-"
@@ -7771,9 +7771,9 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "약학대학",
-    "major": "약학대학",
-    "core_subjects": "",
-    "recommended_subjects": "",
+    "major": "",
+    "core_subjects": "영어, 과학",
+    "recommended_subjects": "영어, 과학",
     "note": ""
   },
   {
@@ -7782,9 +7782,9 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "의과대학",
-    "major": "의과대학",
-    "core_subjects": "",
-    "recommended_subjects": "",
+    "major": "",
+    "core_subjects": "영어, 과학",
+    "recommended_subjects": "영어, 과학",
     "note": ""
   },
   {
@@ -7793,9 +7793,9 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "간호대학",
-    "major": "간호대학",
-    "core_subjects": "",
-    "recommended_subjects": "",
+    "major": "",
+    "core_subjects": "영어, 과학",
+    "recommended_subjects": "영어, 과학",
     "note": ""
   },
   {
@@ -7804,9 +7804,9 @@
     "city": "충북",
     "university": "충북대학교",
     "college": "창의융합대학",
-    "major": "창의융합대학",
-    "core_subjects": "",
-    "recommended_subjects": "",
+    "major": "",
+    "core_subjects": "영어, 과학",
+    "recommended_subjects": "영어, 과학",
     "note": ""
   },
   {
